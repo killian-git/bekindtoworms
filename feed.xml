@@ -3,32 +3,142 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-06T15:05:11+00:00</updated>
+    <updated>2021-11-09T21:17:27+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
     <id>https://killian-git.github.io/bekindtoworms</id>
 
     <entry>
-        <title>Design 2</title>
+        <title>Design 2: Kitchen Garden</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/design-2.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/design-2.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/design-2-kitchen-garden/"/>
+        <id>https://killian-git.github.io/bekindtoworms/design-2-kitchen-garden/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-06T15:03:32+00:00</updated>
+        <updated>2021-11-09T21:17:27+00:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://killian-git.github.io/bekindtoworms/media/posts/10/E697468B-40DD-4691-AEAE-46F62B2A2E73.JPG" alt="A drawing board with a hand-drawn garden design in progress, with an eraser and pencil, pieces of paper with words on that are to be glued to the design" />
+                <p>Put a nice quote in here about growing food ...</p>
+<p> </p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1fk08amm548">Overview</a></li>
+<li><a href="#mcetoc_1fk2b9b9h1cn">Goal articulation</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1co">Survey</a>
+<ul>
+<li><a href="#mcetoc_1fk2b9b9i1cp">Site systems and elements</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1cq">Sector Analysis</a></li>
+<li><a href="#mcetoc_1fk2qit2p1ht">Limiting factors</a></li>
+<li><a href="#mcetoc_1fk2qit2p1hu">Resources</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1fk2qit2p1hv">Miscellaneous</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1cr">Analysis</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1cs">Decision Making</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1ct">Implementation</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1cu">Manage</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1cv">Permaculture Principles</a></li>
+<li><a href="#mcetoc_1fk2b9b9i1d0">Ethics</a></li>
+</ul>
+</div>
+<p> </p>
+<h2 id="mcetoc_1fk08amm548"><strong>Overview</strong></h2>
+<p><strong>Aim</strong></p>
+<p>To create a functional, accessible kitchen garden that will allow people of all abilities, physicalities and ages to enjoy growing edible plants</p>
+<p><strong>Date</strong></p>
+<p>18.08.21</p>
+<p><strong>Location</strong></p>
+<p>West Yorkshire</p>
+<p><strong>Client</strong></p>
+<p>Canal Connections</p>
+<p><strong>Status</strong></p>
+<p>To be implemented</p>
+<p><strong>Domain</strong></p>
+<p>Land/nature stewardship</p>
+<p><strong>Principles</strong></p>
+<p><strong>Framework</strong></p>
+<p><a href="https://spiralseed.co.uk/permaculture-design-process/" target="_blank" rel="noopener noreferrer">GoSADIM</a>: Goal setting, Survey, Analysis, Decision Making, Implementation, Manage<br>Then the additional steps of Evaluate &amp; Tweak</p>
+<p>By Graham Burnett at <a href="https://spiralseed.co.uk/" target="_blank" rel="noopener noreferrer">Spiral Seed </a> </p>
+<p><strong>Tools</strong></p>
+<p><strong>Resources/support</strong></p>
+<p><strong>Context/Scope of design</strong></p>
+<p>This a design about creating a functional and accessible kitchen garden to be used by a community for learning, connecting with nature, socialising and having fun</p>
+<p>The client wanted to install a kitchen garden that would be the focus for activities for community groups.</p>
+<p>This was the extent of the brief.  The client left it to myself and the company I was working with to create a garden that we could develop into a sustainable business.</p>
+<p>I decided to use this opportunity to create my dream kitchen garden, and one that would be accessible to as many people as possible. I decided to use materials that had the least ecological impact and to include elements that would benefit all aspects of the environment, where possible.</p>
+<p>The site for the kitchen garden is within a larger area designated for a bigger community gardens project. This in turn is on a very large site. There are many logistical details that need to be addressed, but these are not in the remit of this design</p>
+<p> </p>
+<h2 id="mcetoc_1fk2b9b9h1cn">Goal articulation</h2>
+<p>I would like to create a garden that;</p>
+<ul>
+<li data-list="bullet">produces a wide variety of fruit and vegetables</li>
+<li data-list="bullet">increases biodiversity</li>
+<li data-list="bullet">provides opportunities for people can come to learn and connect with nature/the growing process</li>
+<li data-list="bullet">is accessible for everyone and can engage a diverse range of people</li>
+<li data-list="bullet">is not only sustainable but also regenerative</li>
+<li data-list="bullet">strengthens the local community and is shaped by the local community</li>
+<li data-list="bullet">looks beautiful, to inspire and engage</li>
+<li data-list="bullet">uses environmentally friendly and organic methods - reducing waste, recycling/reusing. free from pesticides, herbicides, no peat, no dig, less fossil fuels (hand tools rather than power tools)</li>
+<li data-list="bullet">uses local resources, especially waste from on site, e.g. woodchip, leaves and grass clippings</li>
+</ul>
+<p>I created a mood board on <a href="https://www.pinterest.co.uk/bekindtoworms/dreamtime/" target="_blank" rel="noopener noreferrer">Pinterest</a></p>
+<h2 id="mcetoc_1fk2b9b9i1co">Survey</h2>
+<p>You can see all my survey information on this <a href="https://miro.com/app/board/o9J_lkxaHao=/?moveToWidget=3074457367262827078&amp;cot=14" target="_blank" rel="noopener noreferrer">Miro board.</a></p>
+<p>I have created a <a href="https://miro.com/app/board/o9J_lkxaHao=/?moveToWidget=3074457367262827082&amp;cot=14" target="_blank" rel="noopener noreferrer">photo map</a> of the site..</p>
+<p>Geological <a href="https://killian-git.github.io/bekindtoworms/Geological location.pdf" target="_blank" rel="noopener noreferrer">location</a></p>
+<h3 id="mcetoc_1fk2b9b9i1cp">Site systems and elements</h3>
+<p>To identify what was already on the site I did the following.</p>
+<p>I created a <a href="https://killian-git.github.io/bekindtoworms/base map.png" target="_blank" rel="noopener noreferrer">base map</a> using Google Earth</p>
+<figure class="post__image"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/10/base-map.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/base-map-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/base-map-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/base-map-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/base-map-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/base-map-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/base-map-2xl.png 1600w"  alt="Base map" width="1204" height="703"></figure>
+<p>I used the PASTE acronym to help me categorise what was on the site</p>
+<figure class="post__image"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/10/PASTE.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/PASTE-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/PASTE-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/PASTE-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/PASTE-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/PASTE-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/PASTE-2xl.png 1600w"  alt="PASTE analysis chart" width="1789" height="732"></figure>
+<p>I then used the DAFOR acronym to indicate the frequency of each plant</p>
+<figure class="post__image"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/10/DAFOR.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/DAFOR-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/DAFOR-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/DAFOR-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/DAFOR-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/DAFOR-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/DAFOR-2xl.png 1600w"  alt="DAFOR analysis chart" width="1749" height="339"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/10/Plants-in-situ.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Plants-in-situ-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Plants-in-situ-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Plants-in-situ-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Plants-in-situ-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Plants-in-situ-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Plants-in-situ-2xl.png 1600w"  alt="Image of site, with plants already on site mapped" width="1334" height="813"></figure>
+<p> </p>
+<h3 id="mcetoc_1fk2b9b9i1cq">Sector Analysis</h3>
+<p>Due to time constraints, I have only done a very basic sector analysis. I have not made observations myself, but have used general data available on the internet. This is sufficient for the project. </p>
+<p>Shade will not affect the design per se, but will influence how crops are grown, but that is not within the remit of this design. </p>
+<p>The greenhouse to the east of the raised bed area will cast some shade at times.</p>
+<p>The Horse Chestnut to the South of the raised bed area will also cast some shade at times.</p>
+<p>The trees to the west, north and east of the site will provide a windbreak, as will the walls that surround the whole site. Again, this is only really relevant to the growing of crops.</p>
+<p>The site is fairly exposed, especially as a large number of very tall conifers have recently been cut down. These used to surround the kitchen garden site. further developments of the site, such as the creation of a forest garden, may well provide protection. </p>
+<p> </p>
+<h3 id="mcetoc_1fk2qit2p1ht">Limiting factors</h3>
+<p><br><strong>Physical limiting factors</strong><br>There is no water catchment at present.<br>The irrigation system is limited to one tap, which is by the wall to the east. This is a long way from where the kitchen garden has been cited.<br>Deer have access to the site via the car park entrance.<br>Squirrels, rabbits and pigeons are likely to damage crops<br>There are several areas that may be problematic for accessibility for those using wheelchairs/other mobility aids - different levels, trip hazards, broken paths etc.<br><br><strong>Non - physical limiting factors</strong><br>There are many unknowns - funding, community engagement logistics, local residents' reactions, communication systems.<br><br>There are many separate parties involved. We do not know each other very well, and the communication system is long-winded. Communication is disjointed, objectives are unclear etc.<br><br>We do not own the land.</p>
+<p>We do not know if the design will be implemented.<br><br>At present, we do not have a tenure agreement.<br><br>No local people have been involved in this project as yet.</p>
+<h3 id="mcetoc_1fk2qit2p1hu">Resources</h3>
+<p><br>Woodchip and  leaves from the site<br><br>Greenhouse<br><br>We may have workers from CC, in the form of young people on a training programme<br><br>ST infrastructure - accounts, email system, established business w contacts etc.<br><br>Knowledge and skills - myself and Killian have excellent skills in  growing, organisation, teaching and planning<br><br>ST will be part of the implementation and organisation/admin<br><br>It has now become clear that the land owners have a budget for this project, and they want us to submit a proposal so that they can see how much money is required.<br><br></p>
+<h2 id="mcetoc_1fk2qit2p1hv">Miscellaneous</h2>
+<p><br><br><br><br><strong>Climate Change</strong><br>Summers will be hotter, winters will be milder and with more rainfall.<br>Extreme weather conditions will become more frequent.<br><br>Sea level rises should not cause flooding<br><br><strong>People</strong><br>As this is a prospective design, we don't currently have any people to ask questions, although I did ask the site manager about any flooding.<br>It would be good to do some local consultation at some stage, if we get the go ahead to create this garden<br><br>The site is on private land with security gates and at present there is no access to the public. This may change, depending on what happens to the site.<br><br>The hall is a Grade II listed building. The walls of the walled garden are included in this. They have fallen into disrepair but will be refurbished in 2022</p>
+<h2 id="mcetoc_1fk2b9b9i1cr">Analysis</h2>
+<h2 id="mcetoc_1fk2b9b9i1cs">Decision Making</h2>
+<h2 id="mcetoc_1fk2b9b9i1ct">Implementation</h2>
+<h2 id="mcetoc_1fk2b9b9i1cu">Manage</h2>
+<h2 id="mcetoc_1fk2b9b9i1cv">Permaculture Principles</h2>
+<h2 id="mcetoc_1fk2b9b9i1d0">Ethics</h2>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Links</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/links.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/links.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/links/"/>
+        <id>https://killian-git.github.io/bekindtoworms/links/</id>
             <category term="supporting document"/>
 
         <updated>2021-11-06T14:53:14+00:00</updated>
@@ -40,8 +150,8 @@
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/bibliography.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/bibliography.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/bibliography/"/>
+        <id>https://killian-git.github.io/bekindtoworms/bibliography/</id>
             <category term="supporting document"/>
 
         <updated>2021-11-06T14:35:19+00:00</updated>
@@ -53,8 +163,8 @@
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/glossary-of-terms.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/glossary-of-terms.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/glossary-of-terms/"/>
+        <id>https://killian-git.github.io/bekindtoworms/glossary-of-terms/</id>
             <category term="supporting document"/>
 
         <updated>2021-11-06T14:35:26+00:00</updated>
@@ -66,11 +176,11 @@
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/reflection-document.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/reflection-document.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/reflection-document/"/>
+        <id>https://killian-git.github.io/bekindtoworms/reflection-document/</id>
             <category term="supporting document"/>
 
-        <updated>2021-11-06T14:35:10+00:00</updated>
+        <updated>2021-11-09T20:26:56+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -79,55 +189,360 @@
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/permaculture-cv.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/permaculture-cv.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/permaculture-cv/"/>
+        <id>https://killian-git.github.io/bekindtoworms/permaculture-cv/</id>
             <category term="supporting document"/>
 
-        <updated>2021-11-06T14:52:06+00:00</updated>
+        <updated>2021-11-09T20:30:06+00:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Profile</strong></p>
+<p>Permaculture has been on my radar for twenty-five years, as someone in the community I lived in then was growing turnips in a geodesic dome, and I remember the word from then. Then I heard a bit about it when I was in Australia a couple of years later, but really only started to get interested in it when I did a bit of Wwoofing in 2015 (?). then I did the introduction workshop and that set the ball rolling.</p>
+<p>Now I want to integrate it into my daily life, work and everything. The diploma has been…</p>
+<p>This is my permaculture CV, it tells you how I’ve been involved in Permaculture over the years, and what it has meant to me</p>
+<p><strong>Education and Training</strong></p>
+<p><strong> </strong>'Cultivating a Healthy Work Culture on your Farm' webinar | Land Worker’s Alliance | 2021</p>
+<ul>
+<li>Rain Garden workshop | River Kennet Trust | 2021</li>
+<li>Rain Planter workshop | River Kennet Trust | 2021</li>
+<li>Meeting Facilitation training | Land Worker’s Alliance | 2021</li>
+<li>Power, Politics and Production of Seed: An introduction to Seed Saving | 2021</li>
+<li>Diploma in Applied Permaculture Design | <em>in progress</em></li>
+<li>Introduction to Biodynamics | BDAC (online) | 2020</li>
+<li>Awarded RHS bursary for tour of prestigious UK Kitchen Gardens | 2019</li>
+<li>Diploma in Horticultural Practice RHS Level 3; Distinction | 2019</li>
+<li>Compact tractor certificate | 2019</li>
+<li>Brush cutter and trimmer certificate | 2019</li>
+<li>Hand-held hedge trimmer certificate | 2019</li>
+<li>Permaculture Design Certificate | 2018</li>
+<li>BTEC level 2 in Horticulture; Distinction | Shipley College | 2018</li>
+<li>Introduction to Permaculture | London Permaculture Convergence | 20??</li>
+<li>BA Hons Performance; Dance; 2:1 | Leeds University | 2007</li>
+<li>10 GCSEs | Millthorpe Secondary School, York | 1989 – 1994</li>
+</ul>
+<p> </p>
+<p><strong>Farm/Project</strong><strong>/garden</strong><strong> visits</strong></p>
+<p>Ashton Community Walled Garden, Preston | September 2021<br><br>Visited to inform my Esholt Structure design. I saw how complicated it is to run a community garden, how personalities present certain challenges, how working with a board presents issues. I only spent half a day there, but I took Paula from Sponge Tree so I had hoped that it would inspire her too.</p>
+<p>Living Well Social Farm, Wetherby | September 2021</p>
+<p>attended as part of the Land Workers Alliance Northern Region farm visit programme</p>
+<p>Bowling Community Orchard</p>
+<p> </p>
+<p><strong>Permaculture groups/events</strong></p>
+<ul>
+<li>Permaculture Association member since 20??</li>
+<li>Active member of Diploma in Applied Permaculture Design Facebook group</li>
+<li>Active member of Bradford Area Permaculture Women Facebook group</li>
+<li>Buddy – </li>
+<li>Member of diploma Guild since 2020 – Manda, Aimee, Peach and now Charlotte</li>
+<li>Attended weekly forum set up by Carla Moss, August ‘21</li>
+<li>Attended monthly forum set up by Carla Moss, October ’21 – March ‘22</li>
+<li>Attended Permaculture Association AGM 20??</li>
+<li>Attended diploma accreditation event of Carla Moss</li>
+<li>Attended diploma accreditation event of Helen Smith, as member of peer group</li>
+<li>Attended diploma accreditation event of Yannick Naik</li>
+<li>Attended diploma accreditation event of Liz Postlethwaite</li>
+<li>Northern England Permaculture Convergence in 201?</li>
+</ul>
+<p> </p>
+<p><strong>Membership of relevant bodies</strong></p>
+<p>Land Workers Alliance Northern Coordinating group</p>
+<p>Organising farm visits and other events, facilitating meetings, taking minutes, group decision making, writing content for newsletters, writing emails about events to go out to all members of Northern group</p>
+<p>Baildon Green Community Association</p>
+<p>Committee member, attending fortnightly meetings helping with events and working groups,</p>
+<p> </p>
+<p><strong>Seed Co</strong><strong>-</strong><strong>o</strong><strong>p</strong></p>
+<p>Myself and my partner completed a one-week work trial at the Seed Cooperative as we were applying for a job there. Sadly, we didn’t get the job, but it was a fascinating experience and we had a great time there.</p>
+<p>I helped with seed harvesting and processing.</p>
+<p><strong> </strong></p>
+<h2><strong>Work Experience</strong><strong> </strong></h2>
+<p><strong> </strong></p>
+<p>Mar 2020 – to date</p>
+<p><strong>Self-employed </strong>| Be Kind to Worms</p>
+<p>Own business caring for privately owned gardens</p>
+<p>‣ General gardening tasks including weeding, pruning, cutting back, mulching, staking, dead heading</p>
+<p>‣ Designing borders</p>
+<p>‣ Encouraging garden owners to take up ecological methods</p>
+<p><strong> </strong></p>
+<p>Mar – July 2021</p>
+<p><strong>Grower/Harvester </strong>| Growing with Grace, Station Rd, Clapham, North Yorkshire</p>
+<p>‣ Picking and packing organic vegetables</p>
+<p>‣ Weeding, planting out, propagation</p>
+<p>‣ Lead on plant sales project</p>
+<p> </p>
+<p>Sept 2018 – Mar 2020</p>
+<p><strong>Horticultural Student </strong>| RHS Gardens Harlow Carr, Harrogate, North Yorkshire</p>
+<p>‣ Day-to-day cultivation and maintenance tasks within the different gardening teams</p>
+<p>‣ Planning and cultivation of vegetable plot</p>
+<p>‣ Completion of assignments to a high standard and to deadline</p>
+<p>‣ Delivering excellent customer service to visitors</p>
+<p>‣ Leading apprentices and volunteers in set tasks</p>
+<p> </p>
+<p>Jan 2017 – Sept 2018</p>
+<p><strong>Self-employed </strong>| Practically Enlightened</p>
+<p>‣ Set up own business that offers a range of practical help on a Pay What You Want basis</p>
+<p>‣ Provided garden maintenance, child care, house-sitting pet-sitting</p>
+<p> </p>
+<p>Dec 2016 – Sept 2018</p>
+<p><strong>Shop assistant </strong>| Alligator Wholefoods, York, North Yorkshire</p>
+<p>‣ Provided friendly and attentive service to customers</p>
+<p>‣ Developed and managed the social media marketing for the company</p>
+<p> </p>
+<p>May 2016 – Aug 2016</p>
+<p><strong>Woodland steward</strong><strong> </strong>(Wwoof placement)<strong> </strong>| Wilderness Wood, Hadlow Down, East Sussex</p>
+<p>‣ Maintained vegetable plot, following instructions of project manager</p>
+<p>‣ Home-team member, assisting with events</p>
+<p> </p>
+<p>Mar 2016 – May 2016 (temporary position)</p>
+<p><strong>Live-in carer</strong> | Private household, Marlow, Buckinghamshire</p>
+<p>‣ Provided daily care of frail elderly lady</p>
+<p>‣ Liaised with family members, keeping them up to date and talking through any issues</p>
+<p> </p>
+<p>July 2014 – Aug 2015</p>
+<p><strong>Live-in carer</strong> | Private household, Marlow, Buckinghamshire</p>
+<p>‣ Provided daily care of frail elderly couple</p>
+<p>‣ Designed record-keeping system for care team, enabling clear communication </p>
+<p> </p>
+<p>Nov 2013 – Mar 2014</p>
+<p><strong>General assistant</strong> | Poulstone Court Retreat Centre, Kings Caple, Herefordshire</p>
+<p>‣ Worked as a flexible and communicative team member</p>
+<p>‣ Completed tasks in timely and efficient manner</p>
+<p> </p>
+<p>June 2012 – Sept 2013 </p>
+<p><strong>Nanny </strong>| Private household, Maida Vale, London </p>
+<p>‣ Provided daily care of two children, boy aged 2 and girl aged 7</p>
+<p>‣ Liaised closely with parents to ensure clear communication</p>
+<p> </p>
+<p>Jan 2011 – Dec 2012 </p>
+<p><strong>Dance Development Officer</strong> | Epping Forest District Council, Epping, Essex</p>
+<p>‣ Organised community dance activities for people of all ages</p>
+<p>‣ Coordinated a large scale, intergenerational dance project </p>
+<p> </p>
+<p>Oct 2009 – Aug 2010 </p>
+<p><strong>Dance Development Officer</strong> | Surrey County Council, Woking, Surrey</p>
+<p>‣ Managed a complex intergenerational dance project</p>
+<p>‣ Collaborated with a team to organize a dance programme at an arts festival</p>
+<p> </p>
+<p>Dec 2007 – Dec 2008</p>
+<p><strong>Freedom in Dance </strong><strong>Project </strong><strong>M</strong><strong>anager</strong> | Lincolnshire Dance</p>
+<p>‣ Managed a dance programme for older people</p>
+<p>‣ Coordinated certificated training course for teachers</p>
+<p> </p>
+<p>June 2007 – Dec 2012</p>
+<p><strong>Freelance Community Dance Artist</strong> | various areas of UK</p>
+<p>‣ Co-founded Chilli Bon Bon, a dance company for adults with or without disabilities</p>
+<p>‣ Facilitated dance activities for people of all ages and abilities</p>
+<p><strong> </strong></p>
+<p><strong>Achievements/Experience</strong><strong> </strong></p>
+<p>Various Wwoof placements | 2015 – 2016</p>
+<p>Completed the Camino de Santiago, a 550-mile pilgrimage | 2016</p>
+<p>6 years living in an intentional community, working as cook and cleaner | Somerset 1996 – 2002</p>
+<p><strong> </strong></p>
+<p><strong>Interests </strong></p>
+<p>Growing edibles on my allotment, making preserves with grown/foraged ingredients, meditation, caring for large collection of houseplants, needle-felting, writing letters, lists and Instagram posts.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Contact</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/contact.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/contact.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/contact/"/>
+        <id>https://killian-git.github.io/bekindtoworms/contact/</id>
 
         <updated>2021-11-06T11:59:32+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Design 1</title>
+        <title>Design 1: Portfolio Presentation</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/varius-venenatis-fusce.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/varius-venenatis-fusce.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/design-1-portfolio-presentation/"/>
+        <id>https://killian-git.github.io/bekindtoworms/design-1-portfolio-presentation/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-06T14:34:58+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis&hellip;
-                ]]>
-            </summary>
+        <updated>2021-11-09T21:17:07+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-<p><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </p>
-<ol>
-<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. </li>
-<li>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </li>
-<li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-</ol>
-<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>
-<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>
-<blockquote>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>
-<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus quam nunc, blandit vel, luctus pulvinar.</p>
+                    <img src="https://killian-git.github.io/bekindtoworms/media/posts/2/cute-presentation-2.png" alt="A cartoon image of a woman pointing at a presentation board which displays diagrams of Strengths and weaknesses analysis and SMART goals" />
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1fk01b05g2o">Overview</a></li>
+<li><a href="#mcetoc_1fk1vkhjjrn">Goals</a></li>
+<li><a href="#mcetoc_1fk01b05g2q">Observation</a></li>
+<li><a href="#mcetoc_1fk05hb9p32">Boundaries</a></li>
+<li><a href="#mcetoc_1fk05hb9p33">Resources</a></li>
+<li><a href="#mcetoc_1fk05hb9p34">Analysis</a></li>
+<li><a href="#mcetoc_1fk0lmq539d">Design Decisions</a></li>
+<li><a href="#mcetoc_1fk0n2no7e4">Implementation</a></li>
+<li><a href="#mcetoc_1fk0n2no7e5">Maintenance</a></li>
+<li><a href="#mcetoc_1fk0n2no7e6">Evaluation</a></li>
+<li><a href="#mcetoc_1fk0lmq539c">Permaculture Principles</a></li>
+<li><a href="#mcetoc_1fk1vkhjjro">Ethics</a></li>
+<li><a href="#mcetoc_1fk0n2no7e7">Reflection on the design process</a>
+<ul>
+<li><a href="#mcetoc_1fk2st9eq1iv">What went well?</a></li>
+<li><a href="#mcetoc_1fk2st9eq1j0">What was challenging?</a></li>
+<li><a href="#mcetoc_1fk2st9eq1j1">Long term vision and goals</a></li>
+<li><a href="#mcetoc_1fk2st9eq1j2">Next achievable steps</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1fk01b05g2o"><strong>Overview</strong></h2>
+<p> </p>
+<p><strong>Aim</strong></p>
+<p>To decide how to present my diploma to make it effective, accessible and engaging</p>
+<p><strong>Date</strong></p>
+<p>28.10.21</p>
+<p><strong>Location</strong></p>
+<p>UK</p>
+<p><strong>Client</strong></p>
+<p>Myself</p>
+<p><strong>Status</strong></p>
+<p>Ongoing</p>
+<p><strong>Principles</strong></p>
+<p>Strategic</p>
+<p><strong>Framework</strong></p>
+<p>G.O.B.R.A.D.I.M.E. Goals, Observation, Boundaries, Resources, Analysis, Design, Implementation, Maintenance &amp; Evaluation</p>
+<p>This is a framework that was created by <a href="https://www.heatherjoflores.com/" target="_blank" rel="noopener noreferrer">Heather Jo Flores</a>.<br><br>I'm using this because it's new for me.</p>
+<p><strong>Tools</strong></p>
+<p>Client interview, SMART goals, strengths and weaknesses analysis.</p>
+<p><strong>Resources/support</strong></p>
+<p>Killian's web design skills, other apprentice's websites for inspiration, Miro, Google <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Forms, </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Word, PowerPoint</span></p>
+<p><strong>Context</strong></p>
+<p>This is a design about how I'm presenting my diploma portfolio for assessment and for a wider audience</p>
+<p>Having had some trouble presenting designs to people in the past, and this having quite serious consequences for the projects, I want to make sure that my designs are communicable to as many people as possible. This design will help me decide what format to use and how to approach it. I have now booked my assessment dates for my portfolio (the IPA and FPA), and this made me realise that I needed to think carefully about how to present this body of work. </p>
+<p>I enjoy looking at other diploma students' design portfolios and I would like to share my own, but would only be happy to do so if my work was of a standard that I was happy with, in  a format that I'm happy with.</p>
+<h2 id="mcetoc_1fk1vkhjjrn"><span style="color: #000000;">Goals</span></h2>
+<p>I used SMART goals to pinpoint what I wanted. I created this with a <a href="https://miro.com/app/dashboard/?tpTemplate=smart-goals&amp;isCustom=false&amp;invite_link_id=740658767214" target="_blank" rel="noopener noreferrer">Miro template</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/S.jpeg" data-size="646x731"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/S-thumbnail.jpeg" alt="" width="646" height="731"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/M.jpeg" data-size="641x731"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/M-thumbnail.jpeg" alt="" width="641" height="731"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/2021-11-09-6.jpeg" data-size="645x722"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/2021-11-09-6-thumbnail.jpeg" alt="" width="645" height="722"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/R.jpeg" data-size="643x717"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/R-thumbnail.jpeg" alt="" width="643" height="717"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/T.jpeg" data-size="641x719"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/2/gallery/T-thumbnail.jpeg" alt="" width="641" height="719"></a></figure>
+</div></div>
+<p><span style="color: #e03e2d;">I need to fix a couple of errors on this</span></p>
+<h2 id="mcetoc_1fk01b05g2q">Observation</h2>
+<p>I used a tool called <a href="https://killian-git.github.io/bekindtoworms/Client interview.pdf" target="_blank" rel="noopener noreferrer">Client Interview</a> to find out what I was wanting to get out of my portfolio design. Yes, I interviewed myself.</p>
+<h2 id="mcetoc_1fk05hb9p32">Boundaries</h2>
+<p>Time is a boundary, I don't have time to be faffing - I just need a simple format that each design fits into for presentation. <br><br>The fact that the designs need to be clear and concise, accessible and engaging is a boundary, because it means that I can't ramble. I need to be careful that I don't drift off subject. </p>
+<p>I don't want to spend a lot of money</p>
+<h2 id="mcetoc_1fk05hb9p33">Resources</h2>
+<ul>
+<li>Access to the portfolios of numerous diploma students, via their websites</li>
+<li>PowerPoint</li>
+<li>Word</li>
+<li>Excel</li>
+<li>Miro</li>
+<li>Body of work - designs in various stages of completion</li>
+<li>My partner is a web site technician...</li>
+</ul>
+<h2 id="mcetoc_1fk05hb9p34">Analysis</h2>
+<p>I use Miro for a lot of my design work. It's an online whiteboard platform that is designed to allow teams to collaborate. Boards seem to be able to expand into infinity,  it's a very visual tool, and as m<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">y thinking is non-linear, it helps me to keep track of my ideas. </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">I find it indispensable for designing. Because I love it so much, I wondered if I could use it to present my portfolio.</span></p>
+<p>I did a strengths and weaknesses analysis to get a better picture. </p>
+<figure class="post__image"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/2/2021-11-08-7.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/2/responsive/2021-11-08-7-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/2/responsive/2021-11-08-7-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/2/responsive/2021-11-08-7-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/2/responsive/2021-11-08-7-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/2/responsive/2021-11-08-7-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/2/responsive/2021-11-08-7-2xl.png 1600w"  alt="" width="1797" height="717"></figure>
+<p>It was quite clear that a website would be better. I hadn't even considered that my partner could make me a website. That is how fixated I was on using Miro. If anyone wants to get me a Christmas/birthday present, subscription to Miro? Just sayin'...</p>
+<h2 id="mcetoc_1fk0lmq539d"><strong>Design Decisions</strong></h2>
+<p>I will;</p>
+<ul>
+<li>present my portfolio on a website</li>
+<li>use different methods for creating content - including Miro, Word and PowerPoint, as well as others, but then each design will be displayed in same format on the website</li>
+<li>continue working on designs and add them to the website when they're complete</li>
+<li>write a <a href="https://killian-git.github.io/bekindtoworms/Website Brief.pdf" target="_blank" rel="noopener noreferrer">website brief</a></li>
+<li>set a <a href="https://killian-git.github.io/bekindtoworms/Writing Style.pdf">writing style</a> with rules</li>
+</ul>
+<h2 id="mcetoc_1fk0n2no7e4">Implementation</h2>
+<table style="border-collapse: collapse; width: 100.226%; height: 448px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 72.3214%; height: 29px;"><strong>Task</strong></td>
+<td style="width: 10.119%; height: 29px;"><strong>When</strong></td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 72.3214%; height: 46px;">Give Killian the brief </td>
+<td style="width: 10.119%; height: 46px;">29.10.21</td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 72.3214%; height: 46px;">Killian to set up website  </td>
+<td style="width: 10.119%; height: 46px;">07.11.21</td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 72.3214%; height: 46px;">As I complete a design I will gather together all elements from on Miro/Word/PowerPoint etc and create pages on website </td>
+<td style="width: 10.119%; height: 46px;">as and when</td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 72.3214%; height: 46px;">Add designs to website when they are ready - one a week until IPA then as and when until FPA (timeline also in ALP)</td>
+<td style="width: 10.119%; height: 46px;">as and when</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 72.3214%; height: 10px;">Publish Website once first design goes up, so that my tutor can see it </td>
+<td style="width: 10.119%; height: 10px;">07.11.21</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1fk0n2no7e5">Maintenance</h2>
+<p>As the site is static it requires less maintenance</p>
+<p>By uploading designs according to the timeline in my ALP, I will be maintaining the website regularly.</p>
+<p>Technical changes may need to be made to keep website secure and functioning efficiently on modern browsers</p>
+<p>May need to update in line with legal compliance, e.g GDPR, cookies etc.</p>
+<h2 id="mcetoc_1fk0n2no7e6">Evaluation</h2>
+<p><strong>Have I met my goals?</strong><br>1. Work out how to present my diploma<br>Yes, I have definitely done this. I have a template for the presentation of each of my designs. The design process worked well to meet this goal as it helped me to see things from different perspectives. It meets my long and short term needs because I now have a website to present my portfolio and I can add a section for my gardening business. I didn't quite keep to the deadline but I'm pleased with the progress I've made. the website is up and running!</p>
+<p>I wanted to have a low carbon website. One option for this was to go with a low carbon website company. However, website designers aim to create a fast, efficient websites to  achieve high performance. Low carbon is a by-product of this. For this reason, I feel that I have met my goal. </p>
+<p>2. Do a speedy design<br>I had given myself a day to complete it, and I did whizz through it, but I had to go back and do a lot of tweaking because I'd missed stuff out. Even though I missed my deadline, it served my need to get a design done quickly, to progress the project. It helped me keep focussed and concise. <br><br>3. Make it visually engaging<br>I will have to wait for feedback, but personally, I like it! <br><br>4. Allow anyone to understand my designs<br>Again, I will have to wait until I get some feedback</p>
+<p><span style="color: #e03e2d;">Insert charts created with data from <a href="https://forms.gle/7cMKsH9uE3JADbHx5" target="_blank" rel="noopener noreferrer" style="color: #e03e2d;">Google forms</a>.</span></p>
+<p><span style="color: #e03e2d;">Insert quotes </span></p>
+<h2 id="mcetoc_1fk0lmq539c">Permaculture Principles</h2>
+<p><br><strong>Strategic Principles</strong></p>
+<p><strong>Feed what you want to grow</strong> </p>
+<p>I would like permaculture to grow - hopefully my website will help people to understand what it is, and inspire them to incorporate it into their own lives.</p>
+<p>Eventually, I want to grow the website into a platform for my business, so I'm creating something that will serve my short term and long term goals.</p>
+<p>I also really love techy stuff, and this design process will increase my skill set. </p>
+<p><strong>Use edges</strong></p>
+<p>People looking for garden design will also see my permaculture designs, and therefore may learn something about permaculture and want to know more, perhaps even have it used in their gardens.</p>
+<p><strong>Make it beautiful</strong></p>
+<p>I intend to create a visually pleasing and cohesive website. </p>
+<p><strong>Use onsite resources</strong></p>
+<p>Killian! I hadn't thought of enlisting his help, as I usually enjoy building websites myself, but as he offered and I'm short of time, I decided to run with it.</p>
+<p><br><strong>Work Where it Counts</strong> </p>
+<p>Rather than creating a second-rate presentation on Miro, developing the website idea is putting energy where it is most beneficial, and most accessible.</p>
+<p><br><strong>Invest Wisely </strong></p>
+<p>I am investing money into my website, but it is a sound investment as it will also support my business in the future. I am also using my time wisely, because trying to make Miro be something it isn't actually designed for would be a lot of work.</p>
+<p><strong>Be Realistic</strong></p>
+<p>Trying to get Miro to do everything was unrealistic, and also, I need to be realistic about how much time and energy I have for doing this work</p>
+<h2 id="mcetoc_1fk1vkhjjro">Ethics</h2>
+<p><strong>People Care</strong></p>
+<p>Self care; I'm making my diploma journey smoother by creating a well-thought out presentation process, This should mean that I experience as little stress as possible in the run up to completing my portfolio</p>
+<p><strong>Earth Care</strong></p>
+<p>I intend to have a website that has a low carbon footprint</p>
+<p><strong>Fair Share</strong></p>
+<p>Sharing designs with people online, widening the understanding of Permaculture</p>
+<h2 id="mcetoc_1fk0n2no7e7">Reflection on the design process</h2>
+<h3 id="mcetoc_1fk2st9eq1iv">What went well?</h3>
+<p>I genuinely had not considered getting Killian to set up a website for me, even though it may have been obvious to anyone else. Through the process I let go of my fixation with Miro, and with my need to do everything and conceded that I ought to let him help me!</p>
+<p>I'm really pleased with the website, I'm confident that it has met my needs.</p>
+<p>Also, Killian found a way to do it all for free, without adverts! </p>
+<h3 id="mcetoc_1fk2st9eq1j0">What was challenging?</h3>
+<p>Choosing the right tools and understanding which elements of the design process fitted into which design step. Analysis still confuses me.</p>
+<p>I did a SWOC analysis but it didn't work, it was too basic a concept so I just did a strengths and weaknesses analysis instead, which was appropriate to the task. That was really useful to see, I am starting to see how the finding the right tool for the right task is important.</p>
+<h3 id="mcetoc_1fk2st9eq1j1">Long term vision and goals</h3>
+<p>I hope to have my full portfolio of ten designs uploaded onto the website in time for my final assessment, which is on the twenty-second of February. </p>
+<p>At that stage, I can begin to develop the website in order to promote my gardening business and to present the design work that I will do after the accreditation. </p>
+<p>I would like to help other diploma students with their web sites, and by that I mean get Killian to help them with their websites!</p>
+<h3 id="mcetoc_1fk2st9eq1j2">Next achievable steps</h3>
+<p>Get feedback about the site and complete the evaluation</p>
+<p>Share with my tutor for my first assessment</p>
+<p>I hope to have five of my designs completed and uploaded onto the website in time for my interim portfolio assessment, the deadline for this is the first of December, 2021. </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -136,31 +551,20 @@
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan.html"/>
-        <id>https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan/"/>
+        <id>https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan/</id>
 
-        <updated>2021-11-06T15:05:11+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://killian-git.github.io/bekindtoworms/media/posts/1/sun-in-trees-1368734.jpg" alt="" />
-                    Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis&hellip;
-                ]]>
-            </summary>
+        <updated>2021-11-09T20:56:55+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://killian-git.github.io/bekindtoworms/media/posts/1/sun-in-trees-1368734.jpg" alt="" />
-                <address>Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros</address>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-<p><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </p>
-<ol>
-<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. </li>
-<li>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </li>
-<li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-</ol>
-<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>
-<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>
-<blockquote>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>
-<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus quam nunc, blandit vel, luctus pulvinar.</p>
+                <blockquote>
+<p>“When you are a Bear of Very Little Brain, and you Think of Things, you find sometimes that a Thing which seemed very Thingish inside you is quite different when it gets out into the open and has other people looking at it.”<br>― <span class="authorOrTitle">A.A. Milne, </span><span id="quote_book_link_99107">Winnie-the-Pooh</span></p>
+</blockquote>
+<p>Welcome to the place where I have put some Things that were very Thingish inside me. Well hurrah, they are now out in the open for you to look at. I hope you like them. </p>
+<p>If you feel like letting me know what you think of my new website, you could fill in this form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfv-D0SGjt2dKn6xauzCkaqDmpq65rgSBFBw-hsBhoS0Ki_Hw/viewform" target="_blank" rel="noopener noreferrer">here</a>. That would be very helpful and I will be hugely grateful. </p>
+<p> </p>
             ]]>
         </content>
     </entry>
