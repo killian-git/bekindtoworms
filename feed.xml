@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-10T14:56:19+00:00</updated>
+    <updated>2021-11-10T15:13:09+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -143,14 +143,14 @@
         <id>https://killian-git.github.io/bekindtoworms/permaculture-cv/</id>
             <category term="supporting document"/>
 
-        <updated>2021-11-10T10:00:27+00:00</updated>
+        <updated>2021-11-10T14:58:28+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://killian-git.github.io/bekindtoworms/media/posts/4/IMG_1430.JPG" alt="" />
                 <p><strong>Profile</strong></p>
 <p>Permaculture has been on my radar for twenty-five years, as someone in the community I lived in then was growing turnips in a geodesic dome, and I remember the word from then. Then I heard a bit about it when I was in Australia a couple of years later, but really only started to get interested in it when I did a bit of Wwoofing in 2015 (?). then I did the introduction workshop and that set the ball rolling.</p>
-<p>Now I want to integrate it into my daily life, work and everything. The diploma has been…</p>
+<p>Now I want to integrate it into my daily life, work and everything. </p>
 <p><strong>Education and Training</strong></p>
 <p><strong> </strong></p>
 <ul>
@@ -502,22 +502,24 @@
         </content>
     </entry>
     <entry>
-        <title>Home</title>
+        <title>Hello!</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
         <link href="https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan/"/>
         <id>https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan/</id>
 
-        <updated>2021-11-10T14:44:17+00:00</updated>
+        <updated>2021-11-10T15:13:09+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://killian-git.github.io/bekindtoworms/media/posts/1/sun-in-trees-1368734.jpg" alt="" />
-                <blockquote>
+                <p>Welcome to my design portfolio for the <a href="https://diploma.permaculture.org.uk/">Diploma in Applied Permaculture Design</a></p>
+<p> </p>
+<blockquote>
 <p>“When you are a Bear of Very Little Brain, and you Think of Things, you find sometimes that a Thing which seemed very Thingish inside you is quite different when it gets out into the open and has other people looking at it.”<br>― <span class="authorOrTitle">A.A. Milne, </span><span id="quote_book_link_99107">Winnie-the-Pooh</span></p>
 </blockquote>
-<p>Welcome to the place where I have put some Things that were very Thingish inside me. Well hurrah, they are now out in the open for you to look at. I hope you like them. </p>
+<p>So here you are in the place where I have put some Things that were very Thingish inside me. Well, hurrah, they are now out in the open for you to look at. I hope you like them. </p>
 <p>If you feel like letting me know what you think of my new website, you could fill in this form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfv-D0SGjt2dKn6xauzCkaqDmpq65rgSBFBw-hsBhoS0Ki_Hw/viewform" target="_blank" rel="noopener noreferrer">here</a>. That would be very helpful and I will be hugely grateful. </p>
 <p> </p>
             ]]>
