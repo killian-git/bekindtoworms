@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-13T21:32:50+00:00</updated>
+    <updated>2021-11-14T09:36:56+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -276,6 +276,25 @@
         </content>
     </entry>
     <entry>
+        <title>Glossary</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/glossary-of-terms/"/>
+        <id>https://killian-git.github.io/bekindtoworms/glossary-of-terms/</id>
+            <category term="supporting document"/>
+
+        <updated>2021-11-13T21:45:01+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Permaculture Principles </h3>
+<p>David Holmgren</p>
+<p><a href="https://permacultureprinciples.com/principles/_1/">Observe and interact</a><br><a href="https://permacultureprinciples.com/principles/_2/">Catch and store energy</a><br><a href="https://permacultureprinciples.com/principles/_3/">Obtain a yield</a><br><a href="https://permacultureprinciples.com/principles/_4/">Apply self-regulation &amp; accept feedback</a><br><a href="https://permacultureprinciples.com/principles/_5/">Use &amp; value renewable resources &amp; services</a><br><a href="https://permacultureprinciples.com/principles/_6/">Produce no waste</a><br><a href="https://permacultureprinciples.com/principles/_7/">Design from patterns to details</a><br><a href="https://permacultureprinciples.com/principles/_8/">Integrate rather than segregate</a><br><a id="smallandslow" href="https://permacultureprinciples.com/principles/_9/">Use small and slow solutions</a><br><a href="https://permacultureprinciples.com/principles/_10/">Use and value diversity</a><br><a href="https://permacultureprinciples.com/principles/_11/">Use edges &amp; value the marginal</a><br><a href="https://permacultureprinciples.com/principles/_12/">Creatively use and respond to change</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Permaculture CV</title>
         <author>
             <name>Jessie Scantlebury</name>
@@ -456,7 +475,7 @@
         <id>https://killian-git.github.io/bekindtoworms/design-1-portfolio-presentation/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-13T11:23:18+00:00</updated>
+        <updated>2021-11-14T09:36:56+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -487,20 +506,93 @@
 </ul>
 </div>
 <h2 id="mcetoc_1fk01b05g2o"><strong>Overview</strong></h2>
-<p> </p>
-<p><strong>Aim</strong><br>To decide how to present my diploma to make it effective, accessible and engaging</p>
-<p><strong>Date</strong><br>28.10.21 - 09.11.21</p>
-<p><strong>Location</strong><br>UK</p>
-<p><strong>Client</strong><br>Myself</p>
-<p><strong>Status</strong><br>Ongoing</p>
-<p><strong>Principles<br></strong>Strategic</p>
-<p><strong>Framework<br></strong>G.O.B.R.A.D.I.M.E. Goals, Observation, Boundaries, Resources, Analysis, Design, Implementation, Maintenance &amp; Evaluation</p>
-<p>This is a framework that was created by <a href="https://www.heatherjoflores.com/" target="_blank" rel="noopener noreferrer">Heather Jo Flores</a>. I'm using this because I haven't used it before.</p>
-<p><strong>Tools<br></strong>Client interview, SMART goals, strengths and weaknesses analysis.</p>
-<p><strong>Resources/support<br></strong>Killian's web design skills, other apprentice's websites for inspiration, Miro, Google <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Forms, </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Word, PowerPoint.</span></p>
-<p><strong>Context<br></strong>This is a design about how I'm presenting my diploma portfolio for assessment and for a wider audience.</p>
+<table style="border-collapse: collapse; width: 811px; height: 1145px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 97px;">
+<td style="width: 184.667px; height: 97px;">
+<p><strong>Aim</strong></p>
+</td>
+<td style="width: 625.333px; height: 97px;">
+<p>To decide how to present my diploma to make it effective, accessible and engaging</p>
+</td>
+</tr>
+<tr style="height: 37px;">
+<td style="width: 184.667px; height: 37px;">
+<p><strong>Date</strong></p>
+</td>
+<td style="width: 625.333px; height: 37px;">
+<p>28.10.21 - 09.11.21</p>
+</td>
+</tr>
+<tr style="height: 70px;">
+<td style="width: 184.667px; height: 70px;">
+<p><strong>Location</strong></p>
+</td>
+<td style="width: 625.333px; height: 70px;">
+<p>UK</p>
+</td>
+</tr>
+<tr style="height: 45px;">
+<td style="width: 184.667px; height: 45px;">
+<p><strong>Client</strong></p>
+</td>
+<td style="width: 625.333px; height: 45px;">
+<p>Myself</p>
+</td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 184.667px; height: 50px;">
+<p><strong>Status</strong></p>
+</td>
+<td style="width: 625.333px; height: 50px;">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr style="height: 70px;">
+<td style="width: 184.667px; height: 70px;">
+<p><strong>Principles</strong></p>
+</td>
+<td style="width: 625.333px; height: 70px;">
+<p>Strategic</p>
+</td>
+</tr>
+<tr style="height: 191px;">
+<td style="width: 184.667px; height: 191px;">
+<p><strong>Framework</strong></p>
+</td>
+<td style="width: 625.333px; height: 191px;">
+<p>G.O.B.R.A.D.I.M.E. Goals, Observation, Boundaries, Resources, Analysis, Design, Implementation, Maintenance &amp; Evaluation</p>
+<p>This is a framework that was created by <a href="https://www.heatherjoflores.com/">Heather Jo Flores</a>. I'm using this because I haven't used it before.</p>
+</td>
+</tr>
+<tr style="height: 70px;">
+<td style="width: 184.667px; height: 70px;">
+<p><strong>Tools</strong></p>
+</td>
+<td style="width: 625.333px; height: 70px;">
+<p>Client interview, SMART goals, strengths and weaknesses analysis.</p>
+</td>
+</tr>
+<tr style="height: 97px;">
+<td style="width: 184.667px; height: 97px;">
+<p><strong>Resources/support</strong></p>
+</td>
+<td style="width: 625.333px; height: 97px;">
+<p>Killian's web design skills, other apprentice's websites for inspiration, Miro, Google <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Forms, </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Word, PowerPoint.</span></p>
+</td>
+</tr>
+<tr style="height: 418px;">
+<td style="width: 184.667px; height: 418px;">
+<p><strong>Context</strong></p>
+</td>
+<td style="width: 625.333px; height: 418px;">
+<p>This is a design about how I'm presenting my diploma portfolio for assessment and for a wider audience.</p>
 <p>Having had some trouble presenting designs to people in the past, and this having quite serious consequences for the projects, I want to make sure that my designs are communicable to as many people as possible. This design will help me decide what format to use and how to approach it. I have now booked my assessment dates for my portfolio (the IPA and FPA), and this made me realise that I needed to think carefully about how to present this body of work. </p>
 <p>I enjoy looking at other diploma students' design portfolios and I would like to share my own, but would only be happy to do so if my work was of a standard that I was happy with, in  a format that I'm happy with.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2 id="mcetoc_1fk1vkhjjrn"><span style="color: #000000;">Goals</span></h2>
 <p>I used SMART goals to pinpoint what I wanted. I created this with a <a href="https://miro.com/app/dashboard/?tpTemplate=smart-goals&amp;isCustom=false&amp;invite_link_id=740658767214" target="_blank" rel="noopener noreferrer">Miro template.</a></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
@@ -590,14 +682,10 @@
 <p>I would like permaculture to grow - hopefully my website will help people to understand what it is, and inspire them to incorporate it into their own lives.</p>
 <p>Eventually, I want to grow the website into a platform for my business, so I'm creating something that will serve my short term and long term goals.</p>
 <p>I also really love techy stuff, and this design process will increase my skill set. </p>
-<p><strong>Use edges</strong></p>
-<p>Clients looking for garden design will also see my permaculture designs, and therefore may learn something about permaculture and want to know more, perhaps even have it used in their gardens.</p>
-<p><strong>Make it beautiful</strong></p>
-<p>I intend to create a visually pleasing and cohesive website. </p>
-<p><strong>Use onsite resources</strong></p>
-<p>Killian! I hadn't thought of enlisting his help, as I usually enjoy building websites myself, but as he offered and I'm short of time, I decided to run with it.</p>
-<p><br><strong>Work Where it Counts</strong> </p>
-<p>Rather than creating a second-rate presentation on Miro, developing the website idea is putting energy where it is most beneficial, and most accessible.</p>
+<p><strong>Use edges<br></strong>Clients looking for garden design will also see my permaculture designs, and therefore may learn something about permaculture and want to know more, perhaps even have it used in their gardens.</p>
+<p><strong>Make it beautiful<br></strong>I intend to create a visually pleasing and cohesive website. </p>
+<p><strong>Use onsite resources<br></strong>Killian! I hadn't thought of enlisting his help, as I usually enjoy building websites myself, but as he offered and I'm short of time, I decided to run with it.</p>
+<p><br><strong>Work Where it Counts</strong> <br>Rather than creating a second-rate presentation on Miro, developing the website idea is putting energy where it is most beneficial, and most accessible.</p>
 <p><br><strong>Invest Wisely </strong></p>
 <p>I am investing money into my website, but it is a sound investment as it will also support my business in the future. I am also using my time wisely, because trying to make Miro be something it isn't actually designed for would be a lot of work.</p>
 <p><strong>Be Realistic</strong></p>
