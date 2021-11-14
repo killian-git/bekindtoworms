@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-14T10:43:39+00:00</updated>
+    <updated>2021-11-14T11:20:07+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://killian-git.github.io/bekindtoworms/design-2-kitchen-garden/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-14T10:43:39+00:00</updated>
+        <updated>2021-11-14T11:20:07+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -61,13 +61,13 @@
 </div>
 <p> </p>
 <h2 id="mcetoc_1fk08amm548"><strong>Overview</strong></h2>
-<table style="border-collapse: collapse; width: 885px; height: 1058px;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; width: 913px; height: 1058px;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 97px;">
 <td style="width: 184.667px; height: 75px;">
 <p><strong>Aim</strong></p>
 </td>
-<td style="width: 699.333px; height: 75px;">
+<td style="width: 727.333px; height: 75px;">
 <p>To create a functional, accessible kitchen garden that will allow people of all abilities, physicalities and ages to enjoy growing edible plants.</p>
 </td>
 </tr>
@@ -75,7 +75,7 @@
 <td style="width: 184.667px; height: 37px;">
 <p><strong>Date</strong></p>
 </td>
-<td style="width: 699.333px; height: 37px;">
+<td style="width: 727.333px; height: 37px;">
 <p>23.06.21 - 18.08.21</p>
 </td>
 </tr>
@@ -83,31 +83,39 @@
 <td style="width: 184.667px; height: 70px;">
 <p><strong>Location</strong></p>
 </td>
-<td style="width: 699.333px; height: 70px;">West Yorkshire, U.K.</td>
+<td style="width: 727.333px; height: 70px;">West Yorkshire, U.K.</td>
 </tr>
 <tr style="height: 45px;">
 <td style="width: 184.667px; height: 45px;">
 <p><strong>Client</strong></p>
 </td>
-<td style="width: 699.333px; height: 45px;">Private</td>
+<td style="width: 727.333px; height: 45px;">Private</td>
 </tr>
 <tr style="height: 50px;">
 <td style="width: 184.667px; height: 50px;">
 <p><strong>Status</strong></p>
 </td>
-<td style="width: 699.333px; height: 50px;">To be implemented</td>
+<td style="width: 727.333px; height: 50px;">To be implemented</td>
 </tr>
 <tr style="height: 70px;">
 <td style="width: 184.667px; height: 70px;">
+<p><strong>Domain</strong></p>
+</td>
+<td style="width: 727.333px; height: 70px;">Land/Nature stewardship</td>
+</tr>
+<tr>
+<td style="width: 184.667px;">
 <p><strong>Principles</strong></p>
 </td>
-<td style="width: 699.333px; height: 70px;">Land/Nature stewardship</td>
+<td style="width: 727.333px;">
+<p>The Design Principles, from <a href="https://holmgren.com.au/" target="_blank" rel="noopener noreferrer">David Holmgren</a> in Permaculture Principles &amp; Pathways Beyond Sustainabilty </p>
+</td>
 </tr>
 <tr style="height: 191px;">
 <td style="width: 184.667px; height: 191px;">
 <p><strong>Framework</strong></p>
 </td>
-<td style="width: 699.333px; height: 191px;">
+<td style="width: 727.333px; height: 191px;">
 <p><a href="https://spiralseed.co.uk/permaculture-design-process/" target="_blank" rel="noopener noreferrer">GoSADIM</a></p>
 <p>Goal setting, Survey, Analysis, Decision Making, Implementation, Manage<br>Then the additional steps of Evaluate &amp; Tweak</p>
 <p>By Graham Burnett at <a href="https://spiralseed.co.uk/" target="_blank" rel="noopener noreferrer">Spiral Seed </a> </p>
@@ -117,7 +125,7 @@
 <td style="width: 184.667px; height: 70px;">
 <p><strong>Tools</strong></p>
 </td>
-<td style="width: 699.333px; height: 70px;">
+<td style="width: 727.333px; height: 70px;">
 <p>PASTE, DAFOR, sector analysis, overlays</p>
 </td>
 </tr>
@@ -125,7 +133,7 @@
 <td style="width: 184.667px; height: 32px;">
 <p><strong>Resources/support</strong></p>
 </td>
-<td style="width: 699.333px; height: 32px;">
+<td style="width: 727.333px; height: 32px;">
 <p>Miro, Suncalc.org, Pinterest, Google Earth</p>
 </td>
 </tr>
@@ -133,7 +141,7 @@
 <td style="width: 184.667px; height: 418px;">
 <p><strong>Context</strong></p>
 </td>
-<td style="width: 699.333px; height: 418px;">
+<td style="width: 727.333px; height: 418px;">
 <p>This design is about creating a functional and accessible kitchen garden to be used by a community for learning, connecting with nature, socialising and having fun</p>
 <p>The client wanted to install a kitchen garden that would be the focus for activities for community groups.</p>
 <p>This was the extent of the brief.  The client left it to myself and the company I was working with to create a garden that we could develop into a sustainable business.</p>
