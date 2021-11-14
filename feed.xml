@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-14T13:33:17+00:00</updated>
+    <updated>2021-11-14T13:37:30+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://killian-git.github.io/bekindtoworms/design-2-kitchen-garden/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-14T13:33:17+00:00</updated>
+        <updated>2021-11-14T13:37:30+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -32,13 +32,12 @@
 <li><a href="#mcetoc_1fk2b9b9i1co">Survey</a>
 <ul>
 <li><a href="#mcetoc_1fk2b9b9i1cp">Site systems and elements</a></li>
-<li><a href="#mcetoc_1fkb1tps1nt">Limiting factors</a></li>
-<li><a href="#mcetoc_1fk2qit2p1hu">Resources</a></li>
 </ul>
 </li>
-<li><a href="#mcetoc_1fk2qit2p1hv">Miscellaneous</a></li>
 <li><a href="#mcetoc_1fk2b9b9i1cr">Analysis</a>
 <ul>
+<li><a href="#mcetoc_1fkb1tps1nt">Limiting factors</a></li>
+<li><a href="#mcetoc_1fk2qit2p1hu">Resources</a></li>
 <li><a href="#mcetoc_1fkatfn9mi6">Accessibility</a></li>
 <li><a href="#mcetoc_1fkb1pltvnh">Soil improvement systems</a></li>
 <li><a href="#mcetoc_1fkatfn9mi7">Permaculture Ethics</a></li>
@@ -56,7 +55,6 @@
 <li><a href="#mcetoc_1fk2b9b9i1ct">Implementation</a></li>
 <li><a href="#mcetoc_1fk2b9b9i1cu">Manage</a></li>
 <li><a href="#mcetoc_1fk2b9b9i1cv">Permaculture Principles</a></li>
-<li><a href="#mcetoc_1fk2b9b9i1d0">Ethics</a></li>
 </ul>
 </div>
 <p> </p>
@@ -584,7 +582,7 @@
         <id>https://killian-git.github.io/bekindtoworms/design-1-portfolio-presentation/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-14T11:27:56+00:00</updated>
+        <updated>2021-11-14T13:37:01+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -601,7 +599,11 @@
 <li><a href="#mcetoc_1fk0lmq539d">Design Decisions</a></li>
 <li><a href="#mcetoc_1fk0n2no7e4">Implementation</a></li>
 <li><a href="#mcetoc_1fk0n2no7e5">Maintenance</a></li>
-<li><a href="#mcetoc_1fk0n2no7e6">Evaluation</a></li>
+<li><a href="#mcetoc_1fk0n2no7e6">Evaluation</a>
+<ul>
+<li><a href="#mcetoc_1fkfaklbu7c">Feedback</a></li>
+</ul>
+</li>
 <li><a href="#mcetoc_1fk0lmq539c">Permaculture Principles</a></li>
 <li><a href="#mcetoc_1fk1vkhjjro">Ethics</a></li>
 <li><a href="#mcetoc_1fk0n2no7e7">Reflection on the design process</a>
@@ -782,7 +784,7 @@
 <p><strong>Have I met my goals?</strong><br>1. Work out how to present my diploma<br>Yes, I have definitely done this. I have a template for the presentation of each of my designs. The design process worked well to meet this goal as it helped me to see things from different perspectives. It meets my long and short term needs because I now have a website to present my portfolio and I can add a section for my gardening business. I didn't quite keep to the deadline but I'm still pleased with the turnaround.  As you can see, the website is up and running!</p>
 <p>I wanted to have a low carbon website. One option for this was to go with a low carbon website company. However, website designers aim to create a fast, efficient websites to  achieve high performance. Low carbon is a by-product of this. For this reason, I feel that I have met my goal. </p>
 <p>2. Do a speedy design<br>I had given myself a day to complete it, and I did whizz through it, but I had to go back and do a lot of tweaking because I'd missed stuff out. Even though I missed my deadline, it served my need to get a design done quickly, to progress the project. It helped me keep focussed and concise. <br><br>3. Make it visually engaging<br>I will have to wait for feedback, but personally, I like it! <br><br>4. Allow anyone to understand my designs<br>Again, I will have to wait until I get some feedback</p>
-<h3>Feedback</h3>
+<h3 id="mcetoc_1fkfaklbu7c">Feedback</h3>
 <p><span style="color: #ba372a;"><span style="color: #000000;">I gathered feedback using this</span> <span style="color: #000000;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfv-D0SGjt2dKn6xauzCkaqDmpq65rgSBFBw-hsBhoS0Ki_Hw/viewform" target="_blank" rel="noopener noreferrer">Google Form.</a></span> <span style="color: #000000;">Please feel free to fill it in if you would like to.</span></span></p>
 <p>The feedback was mostly very positive and there were some excellent suggestions, some of which I have already implemented. Some of the points were things that I have planned to do, but haven't had time to do, mostly suggestions about improving images, adding more images and making the images the appropriate size. </p>
 <p>This was a very interesting part of the design process. I started to understand the limitations of feedback via a Google Forms,  and had to tweak my questions to get a clearer understanding. But now I am evaluating my evaluation process! There is a whole design project in designing a website and another one in gathering feedback.</p>
@@ -808,25 +810,9 @@
 </blockquote>
 <h2 id="mcetoc_1fk0lmq539c">Permaculture Principles</h2>
 <p><br><strong>Strategic Principles</strong></p>
-<p><strong>Feed what you want to grow</strong> </p>
-<p>I would like permaculture to grow - hopefully my website will help people to understand what it is, and inspire them to incorporate it into their own lives.</p>
-<p>Eventually, I want to grow the website into a platform for my business, so I'm creating something that will serve my short term and long term goals.</p>
-<p>I also really love techy stuff, and this design process will increase my skill set. </p>
-<p><strong>Use edges<br></strong>Clients looking for garden design will also see my permaculture designs, and therefore may learn something about permaculture and want to know more, perhaps even have it used in their gardens.</p>
-<p><strong>Make it beautiful<br></strong>I intend to create a visually pleasing and cohesive website. </p>
-<p><strong>Use onsite resources<br></strong>Killian! I hadn't thought of enlisting his help, as I usually enjoy building websites myself, but as he offered and I'm short of time, I decided to run with it.</p>
-<p><br><strong>Work Where it Counts</strong> <br>Rather than creating a second-rate presentation on Miro, developing the website idea is putting energy where it is most beneficial, and most accessible.</p>
-<p><br><strong>Invest Wisely </strong></p>
-<p>I am investing money into my website, but it is a sound investment as it will also support my business in the future. I am also using my time wisely, because trying to make Miro be something it isn't actually designed for would be a lot of work.</p>
-<p><strong>Be Realistic</strong></p>
-<p>Trying to get Miro to do everything was unrealistic, and also, I need to be realistic about how much time and energy I have for doing this work</p>
+<p><strong>Feed what you want to grow</strong> <br><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">I would like permaculture to grow - hopefully my website will help people to understand what it is, and inspire them to incorporate it into their own lives.<br></span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Eventually, I want to grow the website into a platform for my business, so I'm creating something that will serve my short term and long term goals.<br></span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">I also really love techy stuff, and this design process will increase my skill set. <br></span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Use edges<br></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Clients looking for garden design will also see my permaculture designs, and therefore may learn something about permaculture and want to know more, perhaps even have it used in their gardens.<br></span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Make it beautiful<br></strong>I intend to create a visually pleasing and cohesive website. <br><strong>Use onsite resources<br></strong>Killian! I hadn't thought of enlisting his help, as I usually enjoy building websites myself, but as he offered and I'm short of time, I decided to run with it.<br><strong>Work Where it Counts</strong> <br>Rather than creating a second-rate presentation on Miro, developing the website idea is putting energy where it is most beneficial, and most accessible.<br><strong>Invest Wisely<br></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">I am investing money into my website, but it is a sound investment as it will also support my business in the future. I am also using my time wisely, because trying to make Miro be something it isn't actually designed for would be a lot of work.<br></span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Be Realistic<br></strong>Trying to get Miro to do everything was unrealistic, and also, I need to be realistic about how much time and energy I have for doing this work</p>
 <h2 id="mcetoc_1fk1vkhjjro">Ethics</h2>
-<p><strong>People Care</strong></p>
-<p>Self care; I'm making my diploma journey smoother by creating a well-thought out presentation process, This should mean that I experience as little stress as possible in the run up to completing my portfolio.</p>
-<p><strong>Earth Care</strong></p>
-<p>I intend to have a website that has a low carbon footprint.</p>
-<p><strong>Fair Share</strong></p>
-<p>Sharing designs with people online, widening the understanding of Permaculture.</p>
+<p><strong>People Care<br></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Self care; I'm making my diploma journey smoother by creating a well-thought out presentation process, This should mean that I experience as little stress as possible in the run up to completing my portfolio.<br></span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Earth Care<br></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">I intend to have a website that has a low carbon footprint.<br></span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Fair Share<br></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Sharing designs with people online, widening the understanding of Permaculture.</span></p>
 <h2 id="mcetoc_1fk0n2no7e7">Reflection on the design process</h2>
 <h3 id="mcetoc_1fk2st9eq1iv">What went well?</h3>
 <p>I genuinely had not considered getting Killian to set up a website for me, even though it may have been obvious to anyone else. Through the process I let go of my fixation with Miro, and with my need to do everything and conceded that I ought to let him help me!</p>
