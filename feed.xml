@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-20T15:46:05+00:00</updated>
+    <updated>2021-11-20T16:40:00+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://killian-git.github.io/bekindtoworms/action-learning-pathway/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-20T15:46:05+00:00</updated>
+        <updated>2021-11-20T16:40:00+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -57,7 +57,7 @@
 </ul>
 </div>
 <h2 id="mcetoc_1fkfls6sfae">Overview </h2>
-<table style="border-collapse: collapse; width: 885px; height: 546px;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; width: 885px; height: 502px;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 97px;">
 <td style="width: 194.667px; height: 10px;">
@@ -109,20 +109,18 @@
 </td>
 </tr>
 <tr style="height: 70px;">
-<td style="width: 194.667px; height: 27px;">
-<p> </p>
+<td style="width: 194.667px; height: 10px;">
 <p><strong>Principles</strong></p>
 </td>
-<td style="width: 689.333px; height: 27px;">
+<td style="width: 689.333px; height: 10px;">
 <p>Starhawk’s Common Sense Principles</p>
-<p>I feel as though in previous designs, I have used the principles broadly. For this design I will focus on one or two principles and look at them more deeply.</p>
 </td>
 </tr>
 <tr style="height: 191px;">
-<td style="width: 194.667px; height: 90px;">
+<td style="width: 194.667px; height: 63px;">
 <p><strong>Framework</strong></p>
 </td>
-<td style="width: 689.333px; height: 90px;">
+<td style="width: 689.333px; height: 63px;">
 <p><a href="https://cultural-emergence.com/the-design-web/" target="_blank" rel="noopener noreferrer">Design Web</a>, by <a href="https://loobymacnamara.com/" target="_blank" rel="noopener noreferrer">Looby Macnamara</a></p>
 </td>
 </tr>
