@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-25T19:03:52+00:00</updated>
+    <updated>2021-11-26T15:44:13+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://killian-git.github.io/bekindtoworms/whole-site-fertility-design/"/>
         <id>https://killian-git.github.io/bekindtoworms/whole-site-fertility-design/</id>
 
-        <updated>2021-11-25T19:03:52+00:00</updated>
+        <updated>2021-11-26T15:44:13+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -139,20 +139,31 @@
 </table>
 <h2 id="mcetoc_1flbmf52m5bg">Survey</h2>
 <p>I used Miro software for parts of the survey. It is tricky to navigate so I have created a video to talk through the process. You can watch it here.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/kuGKmlR_1vI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>This <a href="https://miro.com/app/board/uXjVOf4l4xc=/?invite_link_id=567747695335" target="_blank" rel="noopener noreferrer">link</a> will allow you to look at the Miro board in your own time.</p>
+<h3>Site Location</h3>
+<p>Details of this can be found <a href="https://killian-git.github.io/bekindtoworms/SiteLocation.pdf" target="_blank" rel="noopener noreferrer">here</a><a href="https://killian-git.github.io/bekindtoworms/SiteLocation.pdf" target="_blank" rel="noopener noreferrer"></a></p>
 <h3 id="mcetoc_1flbmf52m5bh">Climate and landform</h3>
 <p>In choosing what to survey, I thought about the design and it's requirements - there's no point in doing soil tests because nearly all of the growing at this stage is done in raised beds.</p>
-<p>Climate does affect composting, so I had a look at local figures regarding climate. </p>
-<p>Rainfall and temperatures</p>
+<p>Climate does affect composting to a point, but in the climate of West Yorkshire, the effects are negligible.</p>
+<h3>Site info</h3>
 <p><strong>P.A.S.T.E.</strong></p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/PASTE.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-2xl.png 1600w"  alt="" width="1577" height="882">
 <figcaption >I included a minimal plant list as this is all that is required for this design</figcaption>
 </figure>
-<p>Access points</p>
-<p>Zoning</p>
-<p>Slope</p>
+<p><strong>People</strong></p>
+<p> </p>
+<h3>Zoning</h3>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/Zones.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-2xl.png 1600w"  alt="" width="1626" height="948">
+<figcaption >I apologise for the wobbly lines, I have very shaky hands because I have Essential Tremor!</figcaption>
+</figure>
+<p>I did a very rough zoning exercise, to think about how the site is used. Zone one is where most activity takes place.</p>
+<p>Zone two is where quite a lot of activity takes place</p>
+<p>Zone three is used sometimes</p>
+<p>Zone four is is rarely used</p>
 <h3 id="mcetoc_1flbmf52m5bi">Sector analysis</h3>
 <p>I decided that sector analysis wasn't necessary for this design, it was enough to know which way the prevailing winds came from so that strong winds do not damage any systems put in place.</p>
-<p>Flood zones were considered, as building a compost system in an area that floods could cause run off polution and nutrient loss, as well as slowing down the composting process.</p>
+<p>Flood zones were considered, as building a compost system in an area that floods could cause run off pollution and nutrient loss, as well as slowing down the composting process.</p>
 <p>Frost is not usually an issue when making and using compost as it isn't generally used in winter and systems are adequately covered to protect against the elements.</p>
 <p>Drought will not be significant enough to affect the composting systems and use thereof</p>
 <p>Sun mapping is not required.</p>
@@ -195,7 +206,6 @@
 <li data-list="bullet">Flooding</li>
 </ul>
 <p>Leaks</p>
-<p> </p>
 <ul>
 <li data-list="bullet">Compost system doesn't currently process a large amount of material, resulting in The Heap</li>
 <li data-list="bullet">Willow plants around the site are overgrown and could be used to make highly nutritious compost</li>
@@ -218,7 +228,7 @@
 <li>Pallets</li>
 <li>Cardboard</li>
 </ul>
-<p>The urban location also means that it is relatively easy to take deliveries of other materials, such as...</p>
+<p>The urban location also means that it is relatively easy to take deliveries of other materials, such as building materials.</p>
 <p>Due to time constraints, it wasn't possible to keep an observation diary, but I was able to get some data from staff members and local people.</p>
 <h3 id="mcetoc_1flbmf52m5bq">Why a redesign?</h3>
 <p><br>The current system is not effective because;</p>
