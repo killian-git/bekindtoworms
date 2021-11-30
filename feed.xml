@@ -3,21 +3,41 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-11-26T15:44:13+00:00</updated>
+    <updated>2021-11-30T21:41:16+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
     <id>https://killian-git.github.io/bekindtoworms</id>
 
     <entry>
-        <title>Compost Design</title>
+        <title>Feedback Form</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/feeback-form/"/>
+        <id>https://killian-git.github.io/bekindtoworms/feeback-form/</id>
+
+        <updated>2021-11-30T12:22:32+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://killian-git.github.io/bekindtoworms/media/posts/18/KAteBushCOnfetti.jpg" alt="" />
+                <p>If you would like to give me some feedback about my website and my designs that would be fantastic and I will be very grateful. </p>
+<p>Here's the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtsR7A9E8en272cpOWFhVQ8K9X8dIA2U1oNjoiB_dU84giwQ/viewform">link</a>. </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>5. Compost Design</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
         <link href="https://killian-git.github.io/bekindtoworms/whole-site-fertility-design/"/>
         <id>https://killian-git.github.io/bekindtoworms/whole-site-fertility-design/</id>
 
-        <updated>2021-11-26T15:44:13+00:00</updated>
+        <updated>2021-11-30T20:48:58+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -28,20 +48,27 @@
 <li><a href="#mcetoc_1flba6etom">Overview</a></li>
 <li><a href="#mcetoc_1flbmf52m5bg">Survey</a>
 <ul>
+<li><a href="#mcetoc_1flejnboo1gi">Site Location</a></li>
 <li><a href="#mcetoc_1flbmf52m5bh">Climate and landform</a></li>
+<li><a href="#mcetoc_1flejnboo1gj">Site info</a></li>
+<li><a href="#mcetoc_1flejnboo1gk">Zoning</a></li>
 <li><a href="#mcetoc_1flbmf52m5bi">Sector analysis</a></li>
 <li><a href="#mcetoc_1flbmf52m5bj">Water systems</a></li>
 <li><a href="#mcetoc_1flbmf52m5bk">Soil</a></li>
 <li><a href="#mcetoc_1flbmf52m5bl">Limiting Factors - Site</a></li>
-<li><a href="#mcetoc_1flbmf52m5bm">Limiting Factors - ???</a></li>
 <li><a href="#mcetoc_1flbmf52m5bn">Limiting factors  - non-physical</a></li>
 <li><a href="#mcetoc_1flbmf52m5bo">Site utilities</a></li>
 <li><a href="#mcetoc_1flbmf52m5bp">Free or cheap resources</a></li>
 <li><a href="#mcetoc_1flbmf52m5bq">Why a redesign?</a></li>
-<li><a href="#mcetoc_1flbmf52m5br">Goals</a></li>
+<li><a href="#mcetoc_1flejnboo1gl">The client</a></li>
 </ul>
 </li>
 <li><a href="#mcetoc_1flbmf52m5bs">Analysis</a></li>
+<li><a href="#mcetoc_1flejnboo1gm">Functions, systems and elements</a>
+<ul>
+<li><a href="#mcetoc_1flbmf52m5br">Goals</a></li>
+</ul>
+</li>
 <li><a href="#mcetoc_1flbmf52m5bt">Decisions</a></li>
 <li><a href="#mcetoc_1flbmf52m5bu">Implementation</a></li>
 <li><a href="#mcetoc_1flbmf52m5bv">Maintenance</a></li>
@@ -52,8 +79,8 @@
 <li><a href="#mcetoc_1flbmf52m5c4">Reflection</a></li>
 </ul>
 </div>
-<h2 id="mcetoc_1flba6etom">Overview</h2>
-<table style="border-collapse: collapse; width: 885px; height: 1058px;" cellspacing="0" cellpadding="0">
+<h2 id="mcetoc_1flba6etom">Overview </h2>
+<table style="border-collapse: collapse; width: 100%;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 97px;">
 <td style="width: 194.667px; height: 75px;">
@@ -89,17 +116,17 @@
 </td>
 <td style="width: 689.333px; height: 50px;">Partly implemented</td>
 </tr>
-<tr>
-<td style="width: 194.667px;">
+<tr style="height: 70px;">
+<td style="width: 194.667px; height: 70px;">
 <p><strong>Area of Application</strong></p>
 </td>
-<td style="width: 689.333px;">Land</td>
+<td style="width: 689.333px; height: 70px;">Land</td>
 </tr>
 <tr style="height: 70px;">
 <td style="width: 194.667px; height: 70px;">
 <p><strong>Principles</strong></p>
 </td>
-<td style="width: 689.333px; height: 70px;"> </td>
+<td style="width: 689.333px; height: 70px;">Holmgren</td>
 </tr>
 <tr style="height: 191px;">
 <td style="width: 194.667px; height: 191px;">
@@ -115,7 +142,7 @@
 <p><strong>Tools</strong></p>
 </td>
 <td style="width: 689.333px; height: 70px;">
-<p> </p>
+<p>PASTE, zoning, Plus and minus, flowchart, elements matrix, hierarchy of resource use diagram, SMART goals, Spirals of erosion/abundance, </p>
 </td>
 </tr>
 <tr style="height: 97px;">
@@ -123,7 +150,7 @@
 <p><strong>Resources/support</strong></p>
 </td>
 <td style="width: 689.333px; height: 32px;">
-<p>Miro</p>
+<p>Miro, YouTube, <em>Permaculture Design</em> by <a href="http://www.learnpermaculture.com/" target="_blank" rel="noopener noreferrer">Aranya</a>, <em>The Earth Path</em> by <a href="https://starhawk.org/" target="_blank" rel="noopener noreferrer">Starhawk,</a></p>
 </td>
 </tr>
 <tr style="height: 418px;">
@@ -137,23 +164,110 @@
 </tr>
 </tbody>
 </table>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5249.JPG" data-size="2448x2448"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5249-thumbnail.JPG" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5248.JPG" data-size="2448x2448"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5248-thumbnail.JPG" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5252.JPG" data-size="2448x2448"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5252-thumbnail.JPG" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5246.JPG" data-size="2448x2448"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5246-thumbnail.JPG" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5250.JPG" data-size="2448x2448"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5250-thumbnail.JPG" alt="" width="720" height="720"></a></figure>
+</div></div>
+<blockquote>
+<p>Waste is food. All fertility arises from decay. There is no life without death, and death feeds new life. Life and death, decay and regeneration, are part of the same cycle. We cannot have life without death, fertility without rot. But death need not be feared or viewed with horror. It is part of the cycle - a transformation, not an end.</p>
+<p>- Starhawk, The Earth Path</p>
+</blockquote>
 <h2 id="mcetoc_1flbmf52m5bg">Survey</h2>
+<h3 id="mcetoc_1flejnboo1gl">The client</h3>
+<p>The client is responsible for a market garden and one of the main aims is to produce a wide range of fruit and vegetables. I identified the potential and need for compost production. There is potential for the site to be community sufficient in compost.</p>
+<p>What are the priorities?</p>
+<ul>
+<li>To create high quality compost to support food production</li>
+</ul>
+<p>What are the additional things it would be nice to have?</p>
+<ul>
+<li>to train staff and volunteers how to use the compost systems</li>
+<li>To run composting workshops for staff, volunteers and visitors</li>
+<li>Food waste collection/donation from local community</li>
+</ul>
+<p>What is the vision for the site?</p>
+<ul>
+<li>To be community-sufficient in compost</li>
+<li>To have efficient, low maintenance systems </li>
+<li>To have a straightforward system that processes all waste from the veg production areas</li>
+<li>For the systems to be close to where waste is produced</li>
+</ul>
+<p><span style="color: #000000;">There is a small budget available for the overall growing project and some of it can be used for the composting systems.</span></p>
+<p>Timescale - The composting systems need to be put in place straightaway, so as to reduce the need for buying in compost next year. </p>
+<h3>Why is compost needed?</h3>
+<p>There are 144 raised beds on the site. A wide variety of food crops are grown in these, to be sold to visitors, cafes and shops. The growing media in the beds is depleted as crops have been harvested but they have not been adequately topped up with compost, if at all. The beds need topping up as a matter of urgency. In the first year, it will be necessary to top up with bought-in compost but this is expensive and results in increased carbon emissions. #Earth Care</p>
+<p>Healthy soil means healthy crops that are more resilient to pests and drought. Healthy soil also yields crops with higher nutritional content. #People Care #Fair Share</p>
+<h3 id="mcetoc_1flbmf52m5bq">Why a redesign?</h3>
+<p>The current system is not effective because;</p>
+<ul>
+<li>The current bays are too far from most of the working areas</li>
+<li>Workers don't know what to put where so they dump everything on The Heap</li>
+<li>The compost bays are not safe as the paths are slippery and there is run-off pooling on the paths </li>
+<li>Grass clippings from the bowling green in the park are being used. It is likely that these contain chemical treatments such as pesticides and herbicides</li>
+<li>The current bays are wooden and are rotting</li>
+<li>There are bits of timber lying around, some with nails in</li>
+<li>The Heap is now home to nesting birds, foxes and possibly hedgehogs and more</li>
+<li>There is very little compost being made on site, and a lot is needed</li>
+<li>The volunteer who was maintaining the compost bays could not continue due to the pandemic</li>
+<li>Workers have little knowledge about composting</li>
+</ul>
+<p>What is working well?</p>
+<ul>
+<li>There are some good paths in place</li>
+</ul>
+<h3>The Site</h3>
 <p>I used Miro software for parts of the survey. It is tricky to navigate so I have created a video to talk through the process. You can watch it here.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/kuGKmlR_1vI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>This <a href="https://miro.com/app/board/uXjVOf4l4xc=/?invite_link_id=567747695335" target="_blank" rel="noopener noreferrer">link</a> will allow you to look at the Miro board in your own time.</p>
-<h3>Site Location</h3>
+<h3 id="mcetoc_1flejnboo1gi">Site Location</h3>
 <p>Details of this can be found <a href="https://killian-git.github.io/bekindtoworms/SiteLocation.pdf" target="_blank" rel="noopener noreferrer">here</a><a href="https://killian-git.github.io/bekindtoworms/SiteLocation.pdf" target="_blank" rel="noopener noreferrer"></a></p>
 <h3 id="mcetoc_1flbmf52m5bh">Climate and landform</h3>
-<p>In choosing what to survey, I thought about the design and it's requirements - there's no point in doing soil tests because nearly all of the growing at this stage is done in raised beds.</p>
+<p>In choosing what to survey, I thought about the design and it's requirements. I wanted to make sure I was only surveying that which was pertinent to the design. For example, there was no point in doing soil tests because nearly all of the growing at this stage is done in raised beds.</p>
 <p>Climate does affect composting to a point, but in the climate of West Yorkshire, the effects are negligible.</p>
-<h3>Site info</h3>
+<p>Rainfall is significant throughout the year.</p>
+<p>Prevailing winds are from the west. AS the site is on a hill, it is a windy site and the average windspeed is 19 km/h. Gusting speeds can be as high as 90km/h (worldwideweatheronline.com)</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/VJOG7619.jpg" data-size="1440x1440"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/VJOG7619-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/WVRW5720.jpg" data-size="1440x1440"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/WVRW5720-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5261.JPG" data-size="2448x2448"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/IMG_5261-thumbnail.JPG" alt="" width="720" height="720"></a></figure>
+</div></div>
+<h3 id="mcetoc_1flejnboo1gj">Site info</h3>
 <p><strong>P.A.S.T.E.</strong></p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/PASTE.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/PASTE-2xl.png 1600w"  alt="" width="1577" height="882">
 <figcaption >I included a minimal plant list as this is all that is required for this design</figcaption>
 </figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/17/grafters-2.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/grafters-2-xs.JPG 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/grafters-2-sm.JPG 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/grafters-2-md.JPG 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/grafters-2-lg.JPG 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/grafters-2-xl.JPG 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/grafters-2-2xl.JPG 1600w"  alt="" width="1599" height="682"></figure>
 <p><strong>People</strong></p>
-<p> </p>
-<h3>Zoning</h3>
+<p>Who will be involved in the composting systems and how?</p>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><strong>Who</strong></td>
+<td style="width: 49.2559%;"><strong>What</strong></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Staff</td>
+<td style="width: 49.2559%;">Building compost systems, adding to compost bays, maintenance of compost bays, using compost, training, eating crops grown in compost</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Volunteers</td>
+<td style="width: 49.2559%;">Adding to compost bays, using compost, being trained, eating crops grown in compost</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Visitors</td>
+<td style="width: 49.2559%;">Attending compost workshops, enjoying seeing crops growing in compost, eating crops grown in compost</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Customers</td>
+<td style="width: 49.2559%;">Eating crops grown in compost</td>
+</tr>
+</tbody>
+</table>
+<p>Fair share is at work here because everyone involved gets to eat the results of our labour <span style="color: #ba372a;">#Permaculture Principle</span></p>
+<h3 id="mcetoc_1flejnboo1gk">Zoning</h3>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/Zones.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/Zones-2xl.png 1600w"  alt="" width="1626" height="948">
 <figcaption >I apologise for the wobbly lines, I have very shaky hands because I have Essential Tremor!</figcaption>
 </figure>
@@ -171,97 +285,124 @@
 <p>I have included these in the survey video as some composting systems may require irrigation.</p>
 <h3 id="mcetoc_1flbmf52m5bk">Soil</h3>
 <p>The majority of the crops are grown in raised beds, so soil testing would not have been appropriate. There are a large number of beds and they have been topped up with various substrates at different times, so each bed would have had to have been tested, which would not be a sensible use of resources.</p>
-<p>Put this in a chart? Matrix?</p>
+<p><span style="color: #ba372a;">Put this in a chart? Matrix?</span></p>
 <h3 id="mcetoc_1flbmf52m5bl">Limiting Factors - Site</h3>
 <ul>
 <li>Large amount of organic matter not being composted effectively</li>
 <li>Current composting systems are too far from most activity</li>
-<li> </li>
-</ul>
-<h3 id="mcetoc_1flbmf52m5bm">Limiting Factors - ???</h3>
-<ul>
-<li>Woodchip from local arborist not being used (apart from for paths)</li>
-<li>Local council can provide leaves in autumn</li>
-<li>Volunteers and workers are not learning about composting</li>
-<li>Volunteers and workers </li>
+<li>Flooding</li>
 </ul>
 <h3 id="mcetoc_1flbmf52m5bn">Limiting factors  - non-physical</h3>
 <ul>
-<li><span style="color: #ba372a;">There may be limits of what level of composting can be undertaken - research</span></li>
-<li>Ownership</li>
-<li>Cultural </li>
+<li>Woodchip from local arborist not being used (apart from for paths)</li>
+<li>Local council can provide leaves in autumn but connections are not there</li>
+<li>Workers are not learning about composting</li>
+<li>There are not enough workers</li>
+<li>There may be limits of what level of composting can be undertaken - research</li>
+<li>Staff may not have time to maintain systems and train volunteers and other staff</li>
 <li>Management, workers and volunteers don't understand why it's important to make compost</li>
 </ul>
-<p> </p>
-<p>old</p>
-<ul>
-<li data-list="bullet">People do not always dispose of organic waste correctly</li>
-<li data-list="bullet">Limited volunteer skills</li>
-<li data-list="bullet">Volunteer management</li>
-<li data-list="bullet">Time needed to manage compost</li>
-<li data-list="bullet">Placement of current elements</li>
-<li data-list="bullet">The gardener is on a short-term contract</li>
-<li data-list="bullet">The gardener is part-time</li>
-<li data-list="bullet">At present, we so not have the resources to run a box scheme and the community composting scheme that can run alongside this.</li>
-<li data-list="bullet">Flooding</li>
-</ul>
-<p>Leaks</p>
-<ul>
-<li data-list="bullet">Compost system doesn't currently process a large amount of material, resulting in The Heap</li>
-<li data-list="bullet">Willow plants around the site are overgrown and could be used to make highly nutritious compost</li>
-<li data-list="bullet">People are having to walk a long way with waste material</li>
-<li data-list="bullet">People do not know how to dispose of waste</li>
-<li data-list="bullet">Perennial weeds are not being composted</li>
-</ul>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/CompSpirals.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/CompSpirals-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/CompSpirals-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/CompSpirals-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/CompSpirals-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/CompSpirals-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/CompSpirals-2xl.png 1600w"  alt="" width="1920" height="1080">
+<figcaption >Caption</figcaption>
+</figure>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/TheHeap.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/TheHeap-xs.jpg 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/TheHeap-sm.jpg 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/TheHeap-md.jpg 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/TheHeap-lg.jpg 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/TheHeap-xl.jpg 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/TheHeap-2xl.jpg 1600w"  alt="" width="1920" height="989">
+<figcaption >The Heap - the result of a spiral of erosion</figcaption>
+</figure>
 <h3 id="mcetoc_1flbmf52m5bo">Site utilities</h3>
-<p>Electricity</p>
-<p>Old irrigation system that cannot be fixed</p>
+<p>The site has running water and electricity. Polytunnel 3 has an electricity point.</p>
 <h3 id="mcetoc_1flbmf52m5bp">Free or cheap resources</h3>
-<p>The site is within a highly urbanised area, so there are many opportunities for sourcing cheap and free materials</p>
+<p><strong>Organic waste from the site</strong></p>
+<ul>
+<li>pernicious weeds</li>
+<li>other weeds</li>
+<li>willow branches</li>
+<li>hazel branches</li>
+<li>food waste from volunteers and workers</li>
+</ul>
+<p>The site is within a highly urbanised area, so there are many opportunities for sourcing cheap and free materials;</p>
 <ul>
 <li>woodchip from local arborist</li>
 <li>leaves collected by local council</li>
-<li>food waste from volunteers and workers</li>
 <li>food waste from box scheme when it is up and running </li>
 <li>IBCs can be purchased cheaply</li>
 <li>Manure from staff's family</li>
 <li>Pallets</li>
 <li>Cardboard</li>
+<li>Old fencing that could be re-purposed</li>
 </ul>
+<p>One key resource is land - there is plenty of space to install any number of composting systems </p>
 <p>The urban location also means that it is relatively easy to take deliveries of other materials, such as building materials.</p>
-<p>Due to time constraints, it wasn't possible to keep an observation diary, but I was able to get some data from staff members and local people.</p>
-<h3 id="mcetoc_1flbmf52m5bq">Why a redesign?</h3>
-<p><br>The current system is not effective because;</p>
-<ul>
-<li>The current bays are too far from most of the working areas</li>
-<li>Workers don't know what to put where so they dump everything on The Heap</li>
-<li>The compost bays are not safe as the paths are slippery and there is run-off pooling on the paths </li>
-<li>Grass clippings from the bowling green in the park are being used. It is likely that these contain chemical treatments such as pesticides and herbicides</li>
-<li>The current bays are wooden and are rotting</li>
-<li>There are bits of timber lying around, some with nails in</li>
-<li>The Heap is now home to nesting birds, foxes and possibly hedgehogs and more</li>
-<li>There is very little compost being made on site, and a lot is needed</li>
-<li>The volunteer who was maintaining the compost bays could not continue due to the pandemic</li>
-<li>Workers have little knowledge about composting</li>
-</ul>
-<p>What is working well?</p>
-<p>Nothing</p>
-<p><span style="color: #ba372a;">SPIRAL OF EROSION</span></p>
-<h3>The client</h3>
-<p>My manager was the client but I had identified the need for this design myself, so I was doing it in the hope that they would see the benefits and support me in the implementation of it. Therefore, I did not do a client interview. Instead, I took into consideration the needs of the community garden project as a whole. </p>
-<p>What are the priorities?</p>
-<p>What are the additional things it would be nice to have?</p>
-<ul>
-<li>training </li>
-</ul>
-<p>What is the vision for the site?</p>
-<p>Resources/budget</p>
-<p>Timescale</p>
-<h3 id="mcetoc_1flbmf52m5br">Goals</h3>
-<p>SMART</p>
 <h2 id="mcetoc_1flbmf52m5bs">Analysis</h2>
-<p>To design and establish a system where the energy needed to maintain it decreases over time, while its outputs increase</p>
+<blockquote>
+<p>Your challenge is to integrate [the client's] needs with the needs of the environment and still give them everything they ask for.</p>
+<p>- Aranya</p>
+</blockquote>
+<h2 id="mcetoc_1flejnboo1gm">Functions, systems and elements</h2>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/17/systemsflowchart.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/systemsflowchart-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/systemsflowchart-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/systemsflowchart-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/systemsflowchart-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/systemsflowchart-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/systemsflowchart-2xl.png 1600w"  alt="" width="1841" height="712"></figure>
+<p>The key functions of the composting system are; </p>
+<ul>
+<li>Maintaining a closed loop</li>
+<li>Nutrient cycling</li>
+<li>Supporting plant growth</li>
+<li>Increasing biodiversity</li>
+<li>Soil carbon sequestration</li>
+<li>Low maintenance</li>
+<li>Water saving </li>
+<li>Weed reduction</li>
+</ul>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/17/functionsticklist.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/functionsticklist-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/functionsticklist-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/functionsticklist-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/functionsticklist-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/functionsticklist-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/functionsticklist-2xl.png 1600w"  alt="" width="317" height="366"></figure>
+<p>I considered which elements performed which functions</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>I thought about how the inputs and outputs were processed</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/compostFlowchart.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/compostFlowchart-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/compostFlowchart-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/compostFlowchart-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/compostFlowchart-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/compostFlowchart-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/compostFlowchart-2xl.png 1600w"  alt="" width="1488" height="740">
+<figcaption >Caption</figcaption>
+</figure>
+<h3>Hierarchy of Resource Use</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/17/HierarchyofResources.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/HierarchyofResources-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/HierarchyofResources-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/HierarchyofResources-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/HierarchyofResources-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/HierarchyofResources-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/HierarchyofResources-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>I used this tool to indicate which resources are good to use and which are to be avoided. It serves as an excellent reminder that making compost on site removes the import of peat (often a component in commercial compost mixes). #EarthCare</p>
+<p>As willow and hazel increase with modest use, it makes a lot of sense to use them for ramial woodchip. </p>
+<h3 id="mcetoc_1flbmf52m5br">Goals</h3>
+<p><strong>Needs</strong></p>
+<ul>
+<li>make enough compost to meet needs on site to be community sufficient</li>
+<li>close the loop of organic material being wasted/processed inefficiently</li>
+<li>create low maintenance systems</li>
+<li>make sure that weeds are composted effectively so that weed seed and roots are killed in the process</li>
+<li>design durable systems - sustainability is met through implementation of ethics</li>
+<li>place systems where they are needed</li>
+</ul>
+<p>Aims for the future/separate designs</p>
+<ul>
+<li>ensure workers are safe  - this is part of the clean-up project</li>
+<li>provide workers with clear guidance on how to use systems - this is part of communication and training project</li>
+<li>ensure future gardeners understand the system - this is part of communication and training project</li>
+</ul>
+<p>I then converted these into SMART goals;</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Specific.png" data-size="793x881"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Specific-thumbnail.png" alt="" width="720" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Measurable.png" data-size="789x889"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Measurable-thumbnail.png" alt="" width="720" height="811"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Attainable-2.png" data-size="797x878"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Attainable-2-thumbnail.png" alt="" width="720" height="793"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Relevant.png" data-size="799x884"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Relevant-thumbnail.png" alt="" width="720" height="797"></a></figure>
+<figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Timely.png" data-size="791x880"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Timely-thumbnail.png" alt="" width="720" height="801"></a></figure>
+</div></div>
+<p>I thought about the goals and created <a href="https://killian-git.github.io/bekindtoworms/minimindmapsGoals.pdf" target="_blank" rel="noopener noreferrer">mini mind maps</a> of each one. I'm not sure why, or what they do...</p>
+<p>I did <a href="https://killian-git.github.io/bekindtoworms/PlusMinusCompostingSystems.pdf" target="_blank" rel="noopener noreferrer">plus and minus analysis</a> of a variety of systems</p>
+<p>Then I looked more in-depth at the <a href="https://killian-git.github.io/bekindtoworms/CompostingSystems.pdf" target="_blank" rel="noopener noreferrer">systems</a> that seemed like the best fit</p>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/the-heap-area.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/the-heap-area-xs.jpg 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/the-heap-area-sm.jpg 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/the-heap-area-md.jpg 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/the-heap-area-lg.jpg 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/the-heap-area-xl.jpg 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/the-heap-area-2xl.jpg 1600w"  alt="" width="1920" height="368">
+<figcaption >Caption</figcaption>
+</figure>
 <h2 id="mcetoc_1flbmf52m5bt">Decisions</h2>
+<p>Choice of systems</p>
+<p>I decided to use a wide variety of systems so that all of the materials on offer could be utilised.  One really good resource is that of space, so I didn't have to worry about not having room for all the systems.</p>
+<p>They are all pretty straight forward to put together although the Johnson Su Bioreactors and the one-turn system do require quite a bit of skill and careful planning. They are all low either low or very low maintenance.</p>
+<p>Placement of systems</p>
+<p>I looked at the pathways diagram and the zoning information and the other information from the survey and created a random assembly of sorts.</p>
+<p><span style="color: #ba372a;">Insert video</span></p>
 <h2 id="mcetoc_1flbmf52m5bu">Implementation</h2>
 <h2 id="mcetoc_1flbmf52m5bv">Maintenance</h2>
 <h2 id="mcetoc_1flbmf52m5c0">Evaluation</h2>
@@ -275,6 +416,7 @@
 <p><span style="color: #ba372a;">Finding a way to get everyone to use the compost heaps correctly</span></p>
 <p><strong>Use &amp; value renewable resources &amp; services: </strong>Make the best use of nature’s abundance to reduce our consumptive behaviour and dependence on non-renewable resources.</p>
 <p>By making our own compost, we are closing the loop, and reducing use of peat, synthetic fertilisers, perlite and plastics</p>
+<p>Using willow and hazel for ramial wood chip  means that a resource that is truly renewable is being put to good use, and as using it actually increases the resource and reduces growth that is problematic, the benefits are numerous.</p>
 <p><strong>Produce no waste: </strong>By valuing and making use of all the resources that are available to us, nothing goes to waste.</p>
 <p>By valuing all plant material, including so-called pernicious weeds, we are cycling nutrients and obtaining a yield. By using coppiced willow (some of which are unwanted), hazel and other trees, we are making use of something that is otherwise problematic.</p>
 <p><strong>Design from patterns to detail: </strong>By stepping back, we can observe patterns in nature and society. These can form the backbone of our designs, with the details filled in as we go</p>
@@ -309,13 +451,15 @@
 <li data-list="bullet">By setting up an efficient system now, we are planning for the future</li>
 </ul>
 <h2 id="mcetoc_1flbmf52m5c4">Reflection</h2>
-<p>Not identifying aims/goals at the start doesn't feel right, because when you aare doing the survey, you need to know what these are - otherwise you might waste time gathering data you don't need</p>
-<p>It was suggested to me that I record the length of tie that it took to get from one area to another when calculating distances travelled to move compost/garden waste. I think that was a really good idea but I didn't have time to do it. I may do that in future large-scale designs.</p>
+<p>Not identifying aims/goals at the start doesn't feel right, because when you are doing the survey, you need to know what these are - otherwise you might waste time gathering data you don't need</p>
+<p>It was suggested to me that I record the length of time that it took to get from one area to another when calculating distances travelled to move compost/garden waste. I think that was a really good idea but I didn't have time to do it. I may do that in future large-scale designs.</p>
+<p>In the process of creating SMART goals, I realised that what I thought was a goal was actually how I would do it. Swapping the S's and the A's around helped clarify the goals</p>
+<p>I really struggled to get my head around functions, systems and elements</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Being Well</title>
+        <title>4. Being Well</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
@@ -323,13 +467,13 @@
         <id>https://killian-git.github.io/bekindtoworms/template-2/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-24T17:58:20+00:00</updated>
+        <updated>2021-11-30T21:41:16+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://killian-git.github.io/bekindtoworms/media/posts/16/armup1920.JPG" alt="" />
                 <h2>Overview</h2>
-<table style="border-collapse: collapse; width: 883px; height: 649px;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; width: 100%; height: 649px;" cellspacing="1" cellpadding="1">
 <tbody>
 <tr style="height: 97px;">
 <td style="width: 192.667px; height: 75px;">
@@ -432,7 +576,7 @@
         </content>
     </entry>
     <entry>
-        <title>Action Learning Pathway</title>
+        <title>3. Action Learning Pathway</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
@@ -440,7 +584,7 @@
         <id>https://killian-git.github.io/bekindtoworms/action-learning-pathway/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-22T11:02:35+00:00</updated>
+        <updated>2021-11-30T20:49:44+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -479,7 +623,7 @@
 </ul>
 </div>
 <h2 id="mcetoc_1fkfls6sfae">Overview </h2>
-<table style="border-collapse: collapse; width: 885px; height: 502px;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; width: 100%;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 97px;">
 <td style="width: 194.667px; height: 10px;">
@@ -675,7 +819,7 @@
 <p>Yes, that's more than ten. </p>
 <p>I don't want to fix which designs I'm going to do because as I complete the designs, I will start to see where I need to develop my skills and I can choose designs that serve that need.</p>
 <h2 id="mcetoc_1fkg4v7c61mk">Principles</h2>
-<table style="border-collapse: collapse; width: 100%; height: 515px;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr style="height: 101px;">
 <td style="width: 44.1878%; height: 101px;">Everything is connected<br>
@@ -945,7 +1089,7 @@
         </content>
     </entry>
     <entry>
-        <title>Kitchen Garden Design</title>
+        <title>2. Kitchen Garden Design</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
@@ -953,7 +1097,7 @@
         <id>https://killian-git.github.io/bekindtoworms/design-2-kitchen-garden/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-19T10:59:31+00:00</updated>
+        <updated>2021-11-30T20:49:32+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -996,7 +1140,7 @@
 </div>
 <p> </p>
 <h2 id="mcetoc_1fk08amm548"><strong>Overview</strong></h2>
-<table style="border-collapse: collapse; width: 913px; height: 1058px;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; width: 100%;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 97px;">
 <td style="width: 184.667px; height: 75px;">
@@ -1211,7 +1355,7 @@
 <figcaption >Flowchart created on Miro</figcaption>
 </figure>
 <h3 id="mcetoc_1fkatfn9mi7">Permaculture Ethics</h3>
-<table width="191">
+<table style="border-collapse: collapse; width: 100%;" width="100%">
 <tbody>
 <tr>
 <td width="127">Earth Care</td>
@@ -1284,7 +1428,7 @@
 <p><strong>ROSE -</strong> Signifies a success. What is working well related to the focus area?</p>
 <p><strong>THORN </strong>- Signifies a challenge. What's not working well related to the focus area?</p>
 <p><strong>BUD</strong> - Signifies potential. What could be developed related to the focus area?</p>
-<table style="border-collapse: collapse; width: 100%; height: 3562px;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr style="height: 46px;">
 <td style="width: 20.3869%; height: 46px;"><strong>Focus area</strong></td>
@@ -1358,7 +1502,7 @@
 <p> </p>
 <h2 id="mcetoc_1fk2b9b9i1cv">Permaculture Principles</h2>
 <p>Here I look at the principles a bit more in-depth than just sticking a hashtag next to them! </p>
-<table style="border-collapse: collapse; width: 106.806%; height: 473px;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 23.7494%;"><a href="https://killian-git.github.io/bekindtoworms/glossary-of-terms/" target="_blank" rel="noopener noreferrer">Observe and interact</a></td>
@@ -1638,7 +1782,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Portfolio Presentation Design</title>
+        <title>1. Portfolio Presentation Design</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
@@ -1646,7 +1790,7 @@
         <id>https://killian-git.github.io/bekindtoworms/design-1-portfolio-presentation/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-11-19T13:07:02+00:00</updated>
+        <updated>2021-11-30T20:49:24+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -1681,7 +1825,7 @@
 </ul>
 </div>
 <h2 id="mcetoc_1fk01b05g2o"><strong>Overview</strong></h2>
-<table style="border-collapse: collapse; width: 895px; height: 1145px;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; width: 100%;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 97px;">
 <td style="width: 192.667px; height: 97px;">
@@ -1819,7 +1963,7 @@
 <li>set a <a href="https://killian-git.github.io/bekindtoworms/Writing Style.pdf">writing style</a> with rules</li>
 </ul>
 <h2 id="mcetoc_1fk0n2no7e4">Implementation</h2>
-<table style="border-collapse: collapse; width: 100.226%; height: 448px;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 72.3214%; height: 29px;"><strong>Task</strong></td>
