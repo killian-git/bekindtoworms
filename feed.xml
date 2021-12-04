@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2021-12-04T11:01:04+00:00</updated>
+    <updated>2021-12-04T11:38:58+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -37,7 +37,7 @@
         <link href="https://killian-git.github.io/bekindtoworms/compost/"/>
         <id>https://killian-git.github.io/bekindtoworms/compost/</id>
 
-        <updated>2021-12-04T10:58:58+00:00</updated>
+        <updated>2021-12-04T11:37:40+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -120,8 +120,7 @@
 <p><strong>Status</strong></p>
 </td>
 <td style="width: 689.333px; height: 50px;">
-<p>Not implemented</p>
-<p>Submitted for intermediate portfolio assessment, not yet assessed</p>
+<p>Not implemented<br>Submitted for intermediate portfolio assessment, assessment pending</p>
 </td>
 </tr>
 <tr style="height: 70px;">
@@ -529,7 +528,7 @@
         <id>https://killian-git.github.io/bekindtoworms/beingwell/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-12-04T10:59:23+00:00</updated>
+        <updated>2021-12-04T11:38:06+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -574,7 +573,7 @@
 <p><strong>Status</strong></p>
 </td>
 <td style="width: 689.333px; height: 50px;">
-<p>Implemented and ongoing</p>
+<p>Implemented and ongoing<br>Submitted for interim portfolio assessment, assessment pending</p>
 </td>
 </tr>
 <tr style="height: 70px;">
@@ -646,7 +645,7 @@
         <id>https://killian-git.github.io/bekindtoworms/actionlearningpathway/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-12-04T10:59:57+00:00</updated>
+        <updated>2021-12-04T11:36:03+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -726,6 +725,7 @@
 </td>
 <td style="width: 689.333px; height: 50px;">
 <p>ongoing</p>
+<p>Submitted for interim portfolio assessment, not assessed</p>
 </td>
 </tr>
 <tr style="height: 70px;">
@@ -1159,7 +1159,7 @@
         <id>https://killian-git.github.io/bekindtoworms/kitchengarden/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-12-04T11:00:23+00:00</updated>
+        <updated>2021-12-04T11:37:53+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -1236,7 +1236,9 @@
 <td style="width: 184.667px; height: 50px;">
 <p><strong>Status</strong></p>
 </td>
-<td style="width: 727.333px; height: 50px;">To be implemented</td>
+<td style="width: 727.333px; height: 50px;">
+<p>Not implemented<br>Submitted for interim portfolio assessment, assessment pending</p>
+</td>
 </tr>
 <tr style="height: 70px;">
 <td style="width: 184.667px; height: 70px;">
@@ -1852,7 +1854,7 @@
         <id>https://killian-git.github.io/bekindtoworms/portfoliopresentation/</id>
             <category term="permaculture design"/>
 
-        <updated>2021-12-04T11:01:04+00:00</updated>
+        <updated>2021-12-04T11:38:58+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -1926,7 +1928,7 @@
 <p><strong>Status</strong></p>
 </td>
 <td style="width: 701.333px; height: 50px;">
-<p>Ongoing</p>
+<p>Ongoing<br>Submitted for interim portfolio assessment, assessment pending</p>
 </td>
 </tr>
 <tr>
