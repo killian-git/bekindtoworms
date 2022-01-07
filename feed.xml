@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2022-01-07T12:25:23+00:00</updated>
+    <updated>2022-01-07T18:08:33+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -37,7 +37,7 @@
         <link href="https://killian-git.github.io/bekindtoworms/compost/"/>
         <id>https://killian-git.github.io/bekindtoworms/compost/</id>
 
-        <updated>2021-12-04T21:02:36+00:00</updated>
+        <updated>2022-01-07T18:08:33+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -423,7 +423,7 @@
 <li>provide workers with clear guidance on how to use systems - this is part of communication and training project</li>
 <li>ensure future gardeners understand the system - this is part of communication and training project</li>
 </ul>
-<p>I then converted these into SMART goals;</p>
+<p>I then converted these into SMART goals, shown below. Each goal is numbered and on a coloured sticky note so you can follow the progression of each goal through the five questions.</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Specific.png" data-size="793x881"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Specific-thumbnail.png" alt="" width="720" height="800"></a></figure>
 <figure class="gallery__item"><a href="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Measurable.png" data-size="789x889"><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/17/gallery/Measurable-thumbnail.png" alt="" width="720" height="811"></a></figure>
@@ -443,13 +443,14 @@
 <p>I made a video in which I explain my design decisions;</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Dj_imnJmHgo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h2 id="mcetoc_1flbmf52m5bu">Implementation</h2>
-<p>The implementation plan can be seen <a href="https://killian-git.github.io/bekindtoworms/Implementation.pdf" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>The implementation plan including; a project plan in the form of a Gantt chart, a breakdown of costings, chipper research and implementation of each system can be seen <a href="https://killian-git.github.io/bekindtoworms/Implementation.pdf" target="_blank" rel="noopener noreferrer">here</a></p>
 <h2 id="mcetoc_1flbmf52m5bv">Maintenance</h2>
 <p>To a certain extent, using the systems is a major part of their maintenance. As one function for the systems was 'low maintenance', as a whole the system should be fairly low maintenance.</p>
 <p>I wrote a basic <a href="https://killian-git.github.io/bekindtoworms/Maintenance plan.pdf" target="_blank" rel="noopener noreferrer">maintenance plan</a>. It is only basic because I did not stay in that job. </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://killian-git.github.io/bekindtoworms/media/posts/17/maintenancePlan.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/maintenancePlan-xs.png 300w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/maintenancePlan-sm.png 480w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/maintenancePlan-md.png 768w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/maintenancePlan-lg.png 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/maintenancePlan-xl.png 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/17/responsive/maintenancePlan-2xl.png 1600w"  alt="" width="1436" height="803"></figure>
 <p>Had I stayed, I would have done a design around communication for how to use the systems. This would have allowed more people to be involved in the maintenance.</p>
 <h2 id="mcetoc_1flbmf52m5c0">Evaluation</h2>
-<p>In-depth evaluation was not possible for this design as it wasn't implemented. But as far as I can tell, if the design had been implemented, the SMART goals would have been achieved.</p>
+<p>In-depth evaluation was not possible for this design as it wasn't implemented. But as far as I can tell, if the design had been implemented, the SMART goals would have been achieved. The 'measures' part of the SMART goals would have been the indicators fro ivf the goals had been met.</p>
 <h2 id="mcetoc_1flbmf52m5c1">Tweak</h2>
 <p>Looking back at this design I can imagine that it would have been necessary to build a composting system in the old raised beds area. I chose not to put one there as I wasn't sure how much capacity we needed for the outdoor raised beds waste and I wanted to make sure that the one-turn system had enough material. </p>
 <p>I would hope that we would have found a way to produce ramial wood chip. As the forest garden project was a long way from being implemented and using rwc in vegetable beds can be tricky, it was maybe for the best. </p>
@@ -647,7 +648,7 @@
         <id>https://killian-git.github.io/bekindtoworms/actionlearningpathway/</id>
             <category term="permaculture design"/>
 
-        <updated>2022-01-07T12:25:23+00:00</updated>
+        <updated>2022-01-07T14:25:36+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -821,7 +822,13 @@
 <h2 id="mcetoc_1fkg5sapt1q4">Helps</h2>
 <p><strong>Identify the things that are going to help</strong></p>
 <h3 id="mcetoc_1fkfoqf2vqq">Internal resources</h3>
-<p>I did a skills audit, using the <span style="color: #000000;">Skills tree tool.</span></p>
+<p>I did a skills audit, using the <span style="color: #000000;">Skills tree tool. Unfortunately, I spilt tea on the document so I'm in two minds as to whether or not to put pictures of them on here. But just to give you an idea, they provided me with a visual representation of my skills set. I could see the gaps, and in the future I could use them to identify which of those gaps I would like to fill. <br>I scored highest in the following areas:</span></p>
+<ul>
+<li><span style="color: #000000;">Working precisely with instruments, tools, food</span></li>
+<li><span style="color: #000000;">'Green fingers', garden skills</span></li>
+<li><span style="color: #000000;">Imagining, inventing, creating, designing</span></li>
+</ul>
+<p><span style="color: #000000;">Funnily enough, I scored zero on the 'analysing, breaking sown into parts' section. I think I can revisit the skills tree when I've completed my diploma, as then my analytical skills should be much improved!</span><br><br></p>
 <h3 id="mcetoc_1fkfoqf2vqr">External resources</h3>
 <ul>
 <li>Office space</li>
@@ -1192,7 +1199,7 @@
         <id>https://killian-git.github.io/bekindtoworms/kitchengarden/</id>
             <category term="permaculture design"/>
 
-        <updated>2022-01-06T12:31:07+00:00</updated>
+        <updated>2022-01-07T14:42:40+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -1441,7 +1448,7 @@
 <li>uses environmentally friendly and organic methods - reducing waste, recycling/reusing. free from pesticides, herbicides, no peat, no dig, less fossil fuels (hand tools rather than power tools) <strong>this </strong><strong>will be achieved via the ethic of Earth </strong><strong>Care</strong></li>
 <li>uses local resources, especially waste from on site, e.g woodchip, leaves - <strong>this will be achieved through connecting </strong><strong>systems</strong></li>
 </ul>
-<p>I then created a <a href="https://killian-git.github.io/bekindtoworms/FunctionsSystemsElements.pdf" target="_blank" rel="noopener noreferrer">Function, Systems, Elements</a> chart to help me see how the different elements serve the different functions. A truly resilient design would only include systems and elements that serve at least three functions. </p>
+<p>I then created a <a href="https://killian-git.github.io/bekindtoworms/FunctionsSystemsElements.pdf" target="_blank" rel="noopener noreferrer">Function, Systems, Elements</a> chart to help me see how the different elements serve the different functions. It is said that a truly resilient design would only include systems and elements that serve at least three functions. Some of the elements and systems only appear once or twice on the chart, so perhaps it isn't a resilient design. </p>
 <h3 id="mcetoc_1fkatfn9mi6">Accessibility</h3>
 <p>I wanted to know how we could make the site highly accessible. I collated the information and created a <a href="https://killian-git.github.io/bekindtoworms/Accessibility.pdf" target="_blank" rel="noopener noreferrer">document</a> using information that I found on the <a href="https://www.thrive.org.uk/" target="_blank" rel="noopener noreferrer">Thrive</a> website. <span style="color: #ba372a;"><a href="https://killian-git.github.io/bekindtoworms/glossary-of-terms/#useandvaluediversity" target="null">#useandvaluediversity</a></span></p>
 <p>There were a number of different options when it came to choosing materials for the paths around the raised beds. I used a 'Strengths. Weaknesses, Needs and Challenges' chart to help me make a comparison. You can also see it <a href="https://miro.com/app/board/o9J_lkxaHao=/?moveToWidget=3074457367262474468&amp;cot=14" target="_blank" rel="noopener noreferrer">here</a></p>
@@ -1689,6 +1696,7 @@
 </tr>
 </tbody>
 </table>
+<p>Does this design really lack resilience? If it's the case that a truly resilient design has systems and elements that serve more than one function, this isn't a resilient design. But also, I think that there may be functions that have not been identified or included, so some of the systems and elements are actually doing more than I am giving them credit for. How can it be that everything has to serve three functions? Does this mean that some elements should be excluded?  I would like to explore this in my future design work.</p>
 <figure class="post__image post__image--wide" ><img loading="lazy" src="https://killian-git.github.io/bekindtoworms/media/posts/10/Benji1920.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Benji1920-xs.jpg 300w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Benji1920-sm.jpg 480w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Benji1920-md.jpg 768w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Benji1920-lg.jpg 1024w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Benji1920-xl.jpg 1360w ,https://killian-git.github.io/bekindtoworms/media/posts/10/responsive/Benji1920-2xl.jpg 1600w"  alt="" width="1920" height="658">
 <figcaption >Fauna was difficult to assess, but glimpses of this interesting chap are fairly common</figcaption>
 </figure>
@@ -1871,7 +1879,7 @@
         <id>https://killian-git.github.io/bekindtoworms/portfoliopresentation/</id>
             <category term="permaculture design"/>
 
-        <updated>2022-01-06T11:22:29+00:00</updated>
+        <updated>2022-01-07T13:52:01+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
