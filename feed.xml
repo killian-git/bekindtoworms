@@ -3,12 +3,46 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2022-05-26T17:24:15+01:00</updated>
+    <updated>2022-06-01T16:18:29+01:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
     <id>https://killian-git.github.io/bekindtoworms</id>
 
+    <entry>
+        <title>Inspiration</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/inspiration/"/>
+        <id>https://killian-git.github.io/bekindtoworms/inspiration/</id>
+
+        <updated>2022-05-28T09:34:51+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Books</h2>
+<p>Beyond the Veil by Burgs</p>
+<p>A Survival Guide to Staying Conscious by Burgs</p>
+<p>Zen in the Art of Permaculture Design by Stefan Geyer</p>
+<p>Permaculture Design; A step-by-step guide, by Aranya</p>
+<p>People and Permaculture by Looby Macnamara</p>
+<p>Turning to one another by Margaret J Wheatley</p>
+<p>Jasmine Dale book</p>
+<p>Earth Path by Starhawk</p>
+<p>Permaculture Design Notes by Delvin Solkinson</p>
+<p>Design Deck by Delvin Solkinson</p>
+<h2>Websites</h2>
+<p>Dan Palmer</p>
+<p>Carol Sanford</p>
+<p>Burgs</p>
+<p>Starhawk</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Right Livelihood Design</title>
         <author>
@@ -196,7 +230,7 @@
         <link href="https://killian-git.github.io/bekindtoworms/100-days-of-permaculture/"/>
         <id>https://killian-git.github.io/bekindtoworms/100-days-of-permaculture/</id>
 
-        <updated>2022-05-25T09:55:22+01:00</updated>
+        <updated>2022-06-01T16:18:29+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -2088,29 +2122,6 @@
 <p> </p>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Glossary</title>
-        <author>
-            <name>Jessie Scantlebury</name>
-        </author>
-        <link href="https://killian-git.github.io/bekindtoworms/glossary-of-terms/"/>
-        <id>https://killian-git.github.io/bekindtoworms/glossary-of-terms/</id>
-            <category term="supporting document"/>
-
-        <updated>2021-11-19T12:01:56+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <h3>Permaculture Principles</h3>
-<blockquote>
-<p>Permaculture is a creative design process based on whole-systems thinking informed by ethics and design principles</p>
-<p>- David Holmgren</p>
-</blockquote>
-<p>The following principles were written by David Holmgren;</p>
-<p><a id="observeandinteract" href="https://permacultureprinciples.com/principles/_1/">Observe and interact</a><br><a id="catchandstorenergy" href="https://permacultureprinciples.com/principles/_2/">Catch and store energy</a><br><a id="obtainayield" href="https://permacultureprinciples.com/principles/_3/">Obtain a yield</a><br><a id="applyselfregulationandacceptfeedback" href="https://permacultureprinciples.com/principles/_4/">Apply self-regulation &amp; accept feedback</a><br><a id="valuerenewableresourcesandservices" href="https://permacultureprinciples.com/principles/_5/">Use &amp; value renewable resources &amp; services</a><br><a id="producenowaste" href="https://permacultureprinciples.com/principles/_6/">Produce no waste</a><br><a id="designfrompatternstodetails" href="https://permacultureprinciples.com/principles/_7/">Design from patterns to details</a><br><a id="integrateratherthansegregate" href="https://permacultureprinciples.com/principles/_8/">Integrate rather than segregate</a><br><a id="smallandslow" href="https://permacultureprinciples.com/principles/_9/">Use small and slow solutions</a><br><a id="useandvaluediversity" href="https://permacultureprinciples.com/principles/_10/">Use and value diversity</a><br><a id="valuethemarginal" href="https://permacultureprinciples.com/principles/_11/">Use edges &amp; value the marginal</a><br><a id="creativelyuseandrespondtochange" href="https://permacultureprinciples.com/principles/_12/">Creatively use and respond to change</a></p>
             ]]>
         </content>
     </entry>
