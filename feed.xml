@@ -3,7 +3,7 @@
     <title>bekindtoworms</title>
     <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
     <link href="https://killian-git.github.io/bekindtoworms" />
-    <updated>2022-08-08T15:24:39+01:00</updated>
+    <updated>2022-08-08T15:41:56+01:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://killian-git.github.io/bekindtoworms/8-a-regenerative-life/"/>
         <id>https://killian-git.github.io/bekindtoworms/8-a-regenerative-life/</id>
 
-        <updated>2022-08-08T15:24:39+01:00</updated>
+        <updated>2022-08-08T15:41:56+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -114,6 +114,8 @@
 </tr>
 </tbody>
 </table>
+<figure>For phase one I used SADIMET, which is kinda linear (but doesn't have to be). When it came to phase two, I realised I wanted to use a nonlinear framework, so I switched to Looby's Design Web. To demonstrate this, I used Miro. You can check it out <a href="https://miro.com/app/board/o9J_lfsbkfg=/?share_link_id=385523446665" target="_blank" rel="noopener noreferrer">here</a>, and watch the video below to see how to navigate Miro, if you're not familiar with it.</figure>
+<p>But if you want to just look at the slide show, scroll on. See how good I am to you? You are very welcome.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/EG16WnF95P4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <figure class="post__video"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1YZ2jCAC_UbjSIrZzHG2HZs7xsLYWPxKk/preview" allow="autoplay"></iframe></figure>
             ]]>
