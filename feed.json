@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://killian-git.github.io/bekindtoworms/designs/",
+            "url": "https://killian-git.github.io/bekindtoworms/designs/",
+            "title": "Designs",
+            "content_html": "<p><a href=\"https://killian-git.github.io/bekindtoworms/portfoliopresentation/\">Portfolio Presentation</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/kitchengarden/\">Kitchen Garden</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/actionlearningpathway/\">Action Learning Pathway</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/beingwell/\">Being Well</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/compost/\">Compost</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/boundaries/\">Boundaries</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/community-gardens-people/\">Community Gardens; People</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/8-a-regenerative-life/\">A Regenerative Life</a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/9-whole-of-brookside-workshop-design/\">Whole of Brookside Workshop</a><a href=\"https://killian-git.github.io/bekindtoworms/9-whole-of-brookside-workshop-design/\"></a></p>\n<p><a href=\"https://killian-git.github.io/bekindtoworms/10-a-growing-plan-for-brookside-farm/\">A Growing Plan for Brookside</a></p>",
+            "image": "https://killian-git.github.io/bekindtoworms/media/posts/31/IMG_6734.JPG",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-15T18:25:07+01:00",
+            "date_modified": "2022-08-15T18:28:16+01:00"
+        },
+        {
             "id": "https://killian-git.github.io/bekindtoworms/dedication/",
             "url": "https://killian-git.github.io/bekindtoworms/dedication/",
             "title": "Dedication",
@@ -132,19 +146,6 @@
             ],
             "date_published": "2022-05-26T14:05:19+01:00",
             "date_modified": "2022-05-26T16:39:57+01:00"
-        },
-        {
-            "id": "https://killian-git.github.io/bekindtoworms/post-diploma-what-to-do/",
-            "url": "https://killian-git.github.io/bekindtoworms/post-diploma-what-to-do/",
-            "title": "Post Diploma, what to do?",
-            "content_html": "<p>The real work is people work.</p>\n<p>Active Hope training w Joanna Macy and Chris Johnstone <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.activehope.info/</a></p>\n<p> </p>\n<p> </p>",
-            "author": {
-                "name": "Jessie Scantlebury"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-24T13:03:02+01:00",
-            "date_modified": "2022-05-24T13:03:02+01:00"
         }
     ]
 }
