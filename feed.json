@@ -13,14 +13,16 @@
         {
             "id": "https://killian-git.github.io/bekindtoworms/services/",
             "url": "https://killian-git.github.io/bekindtoworms/services/",
-            "title": "Services",
+            "title": "Garden Services",
+            "content_html": "<h2 dir=\"auto\">Gardens done nicely!</h2>\n<div dir=\"auto\">Wildlife friendly garden maintenance and design in and around Baildon.</div>\n<p>We will do everything we can to create a beautiful haven for wildlife in your garden.</p>\n<p>We are committed to organic methods - healthy soil means healthy plants</p>\n<p>If you live in the Baildon area and you need a gardener, please get in touch <a href=\"https://www.facebook.com/bekindtoworms\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/NWFU8912.jpg\" data-size=\"1440x1440\"><img loading=\"lazy\" src=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/NWFU8912-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/HLZN2738-2.jpg\" data-size=\"1440x1439\"><img loading=\"lazy\" src=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/HLZN2738-2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/IMG_6991.JPG\" data-size=\"2448x2448\"><img loading=\"lazy\" src=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/IMG_6991-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/WICP3159-2.JPG\" data-size=\"1440x1440\"><img loading=\"lazy\" src=\"https://killian-git.github.io/bekindtoworms/media/posts/32/gallery/WICP3159-2-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n</div></div>\n<p> </p>",
+            "image": "https://killian-git.github.io/bekindtoworms/media/posts/32/NWFU8912.jpg",
             "author": {
                 "name": "Jessie Scantlebury"
             },
             "tags": [
             ],
             "date_published": "2022-08-23T18:25:48+01:00",
-            "date_modified": "2022-08-23T18:25:48+01:00"
+            "date_modified": "2022-10-22T12:11:08+01:00"
         },
         {
             "id": "https://killian-git.github.io/bekindtoworms/designs/",
